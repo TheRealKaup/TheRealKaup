@@ -1,1 +1,1 @@
-Hello, KCGE is not yet to be available.
+Hello, KCGE is not available yet.
