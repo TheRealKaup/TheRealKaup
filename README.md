@@ -25,10 +25,15 @@
 8. I started developing KTech in March 2022. I had many breaks, sometimes as long as a month. At the times development was more consistent, it was very slow and usually got a couple of hours per week. Whatsoever, this is the biggest programming project I have ever had.
 9. In today's world, it is common for new games to release after most of their development resources were invested into graphics, instead of the game experience itself. This phenomenon usually causes games to not be as good as expected by the players. KTech solves this issue by implementing old and primitive graphics that are easy to use, look fine and can't become a huge and complex process in development.
 
+### This is how a very simple game made with KTech can look:
+![KTech Small Game](ktechsmallgame.png)
+
 ### Other projects interrelated with KTech:
 
 #### TextureCreator
 A program made with KTech for creating KTech texture files. This program is needed for creating KTech textures because each terminal character cell (pixel) has an RGB foreground, RGB background and a character values. This kind of texture can't be created by a normal image creator.
+
+![TextureCreator Screenshot](texturecreatorscreenshot.png)
 
 #### ThatGame
 A game made with KTech that I am working on alongside KTech itself. In the game the player plays as a gifted hacker that gets hacking and heist jobs from the dark web. It is called "ThatGame" because I haven't yet found a name for it.
