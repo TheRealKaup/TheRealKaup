@@ -31,4 +31,4 @@
 A program made with KTech for creating KTech texture files. This program is needed for creating KTech textures because each terminal character cell (pixel) has an RGB foreground, RGB background and a character values. This kind of texture can't be created by a normal image creator.
 
 #### ThatGame
-A game made with KTech that I am working on alongside KTech itself. In the game the player plays as a hacker that gets hacking and heist planning jobs through the dark web. It is called "ThatGame" because I haven't yet found a name for it.
+A game made with KTech that I am working on alongside KTech itself. In the game the player plays as a hacker that gets hacking and heist jobs from the dark web. It is called "ThatGame" because I haven't yet found a name for it.
