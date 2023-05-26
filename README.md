@@ -22,7 +22,7 @@
 5. For its own processing (audio, rendering, collision...) it uses only the CPU.
 6. It can probably be more optimized and fast, but it is generally resource cheap, especially regarding CPU usage.
 7. Game development with KTech can be done completely with a terminal by using a terminal text editor (like Vim), the TextureCreator program and a C++ compiler accessible from a terminal.
-8. I started developing KTech in March 2022. I had breaks, sometimes as long as a month. In the times development was more consistent, it was very slow and usually got a couple of hours per week. Whatsoever, this is the biggest programming project I have ever had.
+8. I started developing KTech in March 2022. I had many breaks, sometimes as long as a month. In the times development was more consistent, it was very slow and usually got a couple of hours per week. Whatsoever, this is the biggest programming project I have ever had.
 9. In today's world, it is common for new games to release after most of their development resources were invested into graphics, instead of the game experience itself. This phenomenon usually causes games to not be as good as expected by the players. KTech solves this issue by implementing old and primitive graphics that are easy to use, look fine and can't become a huge and complex process in development.
 
 ### Other projects interrelated with KTech:
