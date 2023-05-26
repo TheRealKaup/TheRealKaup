@@ -8,7 +8,7 @@
 2. Processing collision with event handling, collider types, multiple colliders of different types in a single object, pushing, blocking and overlapping.
 3. Playing audio, loading .wav files.
 4. Basic GUI (input fields, buttons).
-5. Loading from files and using terminal-specialized object textures.
+5. Loading from files and using special terminal object textures.
 6. Handling input.
 7. Handling time.
 8. Some other quirks and features.
