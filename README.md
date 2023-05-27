@@ -1,6 +1,8 @@
-# Hello. I am currently making KTech cross-platform.
+# Hello. I am Kaup, the developer of KTech.
 
 ## KTech is my C++ terminal game engine. It is supposed to work like any other basic 2D game engine, but instead of printing its graphics into a graphical window, it prints them into a terminal.
+
+### _In today's world, it is common for new games to release after most of their development resources were invested into their graphics, instead of their game experiences themselves. This phenomenon usually causes such games to not be as good as expected by the players, leading to disappointment among the fan base. KTech solves this issue by implementing old and primitive graphics that are easy to use, look fine and can't become a huge and complex process in the game development._
 
 ### KTech is currently capable of:
 
@@ -13,6 +15,8 @@
 7. Handling time.
 8. Some other quirks and features.
 
+### At the time of writing (end of May 2023), KTech and its interrelated projects are private. I will hopefully release KTech as open source <ins>somewhen in July 2023</ins>. I am working on making it cross-platform, cleaning the code up, writing a documentation, and adding some extra features.
+
 ### More information about KTech:
 
 1. It is very object-oriented.
@@ -23,8 +27,6 @@
 6. It can probably be more optimized and fast, but it is generally resource cheap, especially regarding CPU usage.
 7. Game development with KTech can be done completely with a terminal by using a terminal text editor (like Vim), the TextureCreator program and a C++ compiler accessible from a terminal.
 8. I started developing KTech in March 2022. I had many breaks, sometimes as long as a month. At the times development was more consistent, it was very slow and usually got a couple of hours per week. Whatsoever, this is the biggest programming project I have ever had.
-9. In today's world, it is common for new games to release after most of their development resources were invested into graphics, instead of the game experience itself. This phenomenon usually causes games to not be as good as expected by the players. KTech solves this issue by implementing old and primitive graphics that are easy to use, look fine and can't become a huge and complex process in development.
-10. I will hopefully release KTech as open source somewhen in July.
 
 ### This is how a very simple game made with KTech can look:
 ![KTech Small Game](ktechsmallgame.png)
