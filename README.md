@@ -15,7 +15,7 @@
 7. Handling time.
 8. Some other quirks and features.
 
-### At the time of writing (end of May 2023), KTech and its interrelated projects are private. I will hopefully release KTech as open source <ins>somewhen in July 2023</ins>. I am working on making it cross-platform, cleaning the code up, writing a documentation, and adding some extra features.
+### At the time of writing (end of May 2023), KTech and its interrelated projects are private. I will hopefully release KTech as open source <ins>somewhen in July 2023</ins>. I am working on making it cross-platform, cleaning up the code, writing a documentation, and adding some extra features.
 
 ### More information about KTech:
 
