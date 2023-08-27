@@ -1,6 +1,6 @@
 # Hello. I am Kaup, the developer of KTech.
 
-## KTech is my C++ terminal game engine. It is basically like any other basic 2D game engine, but its graphics are terminal based.
+## KTech is my C++ terminal game engine. It is like any other basic 2D game engine, but its graphics are terminal based.
 
 ### _In today's world, it is common for new games to release after most of their development resources were invested into their graphics, instead of their game experiences themselves. This phenomenon usually causes affected games to be not as good as expected by the players, leading to disappointment among the fan base. KTech solves this issue by implementing old and primitive graphics that are easy to use, look fine and can't become a huge and complex process in the development._
 
