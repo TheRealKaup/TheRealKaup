@@ -14,11 +14,10 @@
 - Handling input
 - Some other quirks and features
 
-### At the time of writing (start of August 2023), KTech and its interrelated projects are still private, even though I said that I will hopefully release my projects in July. I decided to extend my plans, and I'm currently working on a game with KTech, and when the game will reach a pilot state, I will release KTech as free and open source software. Here is a short list of what is left for me to do before the release:
-- Finish writing the documentation, which includes tutorials.
-- In addition to the text tutorials, create video tutorials for whoever prefers tutorials in video format, which will be the same as the text tutorials.
+### At the time of writing (September of 2023), KTech and its interrelated projects are still private. I hoped to release things by the end of August, but that didn't happen. This is what I have left to do before releasing KTech:
+- Develop "NETSET" (a game I am making with KTech) and bring it to a presentable pilot state.
+- Finish writing KTech's documentation and tutorials, including tutorials in video format.
 - Make some minor improvements and changes to the engine.
-- Develop "ThatGame" (I haven't thought of a name for the game yet) until it is in a presentable state. 
 
 ### Some intereseting information about KTech:
 
