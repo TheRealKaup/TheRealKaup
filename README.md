@@ -37,7 +37,7 @@ But, I currently prefer working on:
 - I, Kaup, started developing KTech in March 2022. I had many breaks, sometimes as long as a month. This is the biggest programming project I have ever had, and I wouldn't be surprised to know that until now I have invested a 4 digit number of hours into developing it.
 
 ### This is how a very simple game made with KTech can look like:
-![KTech Small Game](ktechsmallgame.png)
+![KTech Small Game](simpleplatform1_10-11-23.png)
 
 ### Other projects interrelated with KTech:
 
