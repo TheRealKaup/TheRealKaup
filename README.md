@@ -21,14 +21,6 @@ I plan to release KTech soon, the only things that I have left to do are:
 
 ---
 
-## TextureCreator
-
-An application made with KTech for creating KTech texture files. This program is needed for creating KTech textures because each terminal character cell has an RGB foreground, RGB background and a character values. This kind of texture can't be created by a normal pixel-based image creator.
-
-![TextureCreator Screenshot](texturecreatorscreenshot.png)
-
----
-
 ## netset
 
 A KTech game in active development. In the game the player is a freelance hacker that gets jobs from the darknet. The game involves a networking sandbox, and the player follows a story line rather then receiving randomly generated jobs. The gameplay consists of searching for information, analyzing it and converting it into new information, until the goal is reached.
@@ -36,3 +28,11 @@ A KTech game in active development. In the game the player is a freelance hacker
 Here's a screenshot of the game, from 9.10.2023 (d/m/y):
 
 ![netset screenshot from 9.10.2023](netset-9.10.2023.png)
+
+---
+
+## TextureCreator
+
+An application made with KTech for creating KTech texture files. This program is needed for creating KTech textures because each terminal character cell has an RGB foreground, RGB background and a character values. This kind of texture can't be created by a normal pixel-based image creator.
+
+![TextureCreator Screenshot](texturecreatorscreenshot.png)
