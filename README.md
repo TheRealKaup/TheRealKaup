@@ -17,7 +17,7 @@ I plan to release KTech soon, the only things that I have left to do are:
  - Touch up KTech's repository (organize license, issues, releases, et cetera).
  - Edit what already exists in the documentation.
 
-![KTech Small Game](simpleplatform1_10-11-23.png)
+![KTech Small Game](simpleplatform1_10-12-23.png)
 
 ---
 
