@@ -14,6 +14,8 @@
 
 # Philosophy
 
+- https://en.wikipedia.org/wiki/Logic
+
 
 # Computer Science
 
