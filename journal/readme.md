@@ -13,6 +13,7 @@ This `README.md` file also contains a glossary I use.
 
 # Lists of Lists
 
+- [Currently Reading](currently_reading.md)
 - [Life Science](life_science.md)
 - [Philosophy](philosophy.md)
 
