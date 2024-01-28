@@ -9,7 +9,7 @@
 # Description
 
 This journal directory keeps track of texts which I've read, such as scientific literature, software documentations and Wikipedia pages.
-This `README.md` file also contains a glossary I use.
+This `readme.md` file also contains a glossary I use.
 
 # Lists of Lists
 
