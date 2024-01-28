@@ -3,21 +3,25 @@
 - [Table of Contents](#table-of-contents)
 - [Currently Reading](#currently-reading)
 - [Future Reads](#future-reads)
-- [Have Fully Read](#have-fully-read)
-- [Have Partially Read](#have-currently-read)
+- [Have Read](#have-read)
 
 # Currently Reading
 
-.
+- https://en.wikipedia.org/wiki/Logic
 
 # Future Reads
 
-https://en.wikipedia.org/wiki/List_of_philosophies
+Lists (items overlap):
+- https://en.wikipedia.org/wiki/List_of_philosophies
+- https://en.wikipedia.org/wiki/List_of_philosophical_concepts
+- https://en.wikipedia.org/wiki/Glossary_of_philosophy
 
-# Have Fully Read
+Specific pages:
+- https://en.wikipedia.org/wiki/Metaphysics
+- https://en.wikipedia.org/wiki/Epistemology
 
-.
+# Have Read
 
-# Have Partially Read
+Ethics:
 
-.
+- https://en.wikipedia.org/wiki/Ethics
