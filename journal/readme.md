@@ -13,6 +13,15 @@ This `README.md` file also contains a glossary I use.
 
 # Lists of Lists
 
-- [Medical](medical.md)
+- [Life Science](life_science.md)
+- [Philosophy](philosophy.md)
 
 # Glossary
+
+## F
+
+- **FR** - Fully read, as in, the entire document was read without skipping any major part.
+
+## P
+
+- **PR** - Partially read, for example, only the abstract and conclusion were read, and the rest of the text was skipped.
