@@ -1,15 +1,10 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Currently Reading](#currently-reading)
-- [Future Reads](#future-reads)
+- [Will Read](#will-reads)
 - [Have Read](#have-read)
 
-# Currently Reading
-
-- https://en.wikipedia.org/wiki/Logic
-
-# Future Reads
+# Will Reads
 
 Lists (items overlap):
 - https://en.wikipedia.org/wiki/List_of_philosophies
