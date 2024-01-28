@@ -1,5 +1,6 @@
 # Table of contents
 
+- [Table of Contents](#table-of-contents)
 - [Will Read](#will-read)
 - [Have Read](#have-read)
 
