@@ -8,8 +8,6 @@
 
 # Life Science
 
-- [NLM's public health statistics course](https://www.nlm.nih.gov/oet/ed/stats/index.html) / ["Chapter 2, Validity"](https://www.nlm.nih.gov/oet/ed/stats/02-500.html)
-
 
 # Philosophy
 
