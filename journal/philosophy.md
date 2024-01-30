@@ -14,6 +14,7 @@ Lists (items overlap):
 Specific pages:
 - https://en.wikipedia.org/wiki/Metaphysics
 - https://en.wikipedia.org/wiki/Epistemology
+- https://en.m.wikipedia.org/wiki/Error_theory
 
 # Have Read
 
