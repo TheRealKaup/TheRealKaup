@@ -10,6 +10,7 @@ Lists (items overlap):
 - https://en.wikipedia.org/wiki/List_of_philosophies
 - https://en.wikipedia.org/wiki/List_of_philosophical_concepts
 - https://en.wikipedia.org/wiki/Glossary_of_philosophy
+- https://en.wikipedia.org/wiki/Outline_of_ethics
 
 Specific pages:
 - https://en.wikipedia.org/wiki/Metaphysics
