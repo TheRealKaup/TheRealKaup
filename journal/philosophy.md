@@ -1,10 +1,10 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Will Read](#will-reads)
+- [Will Read](#will-read)
 - [Have Read](#have-read)
 
-# Will Reads
+# Will Read
 
 Lists (items overlap):
 - https://en.wikipedia.org/wiki/List_of_philosophies
