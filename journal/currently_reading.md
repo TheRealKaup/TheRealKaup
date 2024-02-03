@@ -12,7 +12,8 @@
 # Philosophy
 
 - https://en.wikipedia.org/wiki/Logic
-
+- https://en.wikipedia.org/wiki/Epistemology
+- https://en.wikipedia.org/wiki/Metaphysics / https://en.wikipedia.org/wiki/Metaphysics#Epistemological_foundation
 
 # Computer Science
 
