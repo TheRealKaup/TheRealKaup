@@ -1,8 +1,13 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Notes](#notes)
 - [Will Read](#will-read)
 - [Have Read](#have-read)
+
+# Notes
+
+I usually skip over history parts.
 
 # Will Read
 
