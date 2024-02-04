@@ -2,18 +2,32 @@
 
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
-- [Lists of lists](#lists-of-lists)
+- [Currently Reading](#currently-reading)
+- [Disciplines](#disciplines)
 - [Glossary](#glossary)
 	- [A](#a) - [B](#b) - [C](#c) - [D](#d) - [E](#e) - [F](#f) - [G](#g) - [H](#h) - [I](#i) - [J](#j) - [K](#k) - [L](#l) - [M](#m) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [R](#r) - [S](#s) - [T](#t) - [U](#u) - [V](#v) - [W](#w) - [X](#x) - [Y](#y) - [Z](#z)
 
 # Description
 
 This journal directory keeps track of texts which I've read, such as scientific literature, software documentations and Wikipedia pages.
-This `readme.md` file also contains a glossary I use.
+This `readme.md` file contains a glossary I use, and a list of texts which I'm currently in the process of reading.
+Other files in this directory are for individual fields, and include what I already have read and what I might read in the future.
 
-# Lists of Lists
+# Currently Reading
 
-- [Currently Reading](currently_reading.md)
+Philosophy:
+- https://en.wikipedia.org/wiki/Logic
+- https://en.wikipedia.org/wiki/Epistemology
+- https://en.wikipedia.org/wiki/Metaphysics / https://en.wikipedia.org/wiki/Metaphysics#Epistemological_foundation
+
+Computer Science:
+- [cppreference's C++ language section](https://en.cppreference.com/w/cpp/language) / ["Basic Concepts, Identifiers"](https://en.cppreference.com/w/cpp/language/identifiers)
+- [Git Pro](https://git-scm.com/book/en/v2) / ["3.1 Git Branching"](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+- [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/webdriver/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+# Disciplines
+
 - [Life Science](life_science.md)
 - [Philosophy](philosophy.md)
 
