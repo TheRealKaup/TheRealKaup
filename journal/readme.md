@@ -16,7 +16,7 @@ Other files in this directory are for individual fields, and include what I alre
 # Currently Reading
 
 Philosophy:
-- https://en.wikipedia.org/wiki/Logic
+- https://en.wikipedia.org/wiki/Logic / https://en.wikipedia.org/wiki/Logic#Deductive
 - https://en.wikipedia.org/wiki/Epistemology
 - https://en.wikipedia.org/wiki/Metaphysics / https://en.wikipedia.org/wiki/Metaphysics#Epistemological_foundation
 
