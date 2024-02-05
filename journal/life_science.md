@@ -24,7 +24,7 @@ West S, Monteyne AJ, van der Heijden I, Stephens FB, Wall BT. Nutritional Consid
 
 ## Animal sentience
 
-- **(FR)** Animal sentience SR:
+- **(FR)** Animal sentience SR https://doi.org/10.3390%2Fani3030882:
 ```
 Proctor HS, Carder G, Cornish AR. Searching for Animal Sentience: A Systematic Review of the Scientific Literature. Animals (Basel). 2013 Sep 4;3(3):882-906. doi: 10.3390/ani3030882. PMID: 26479539; PMCID: PMC4494450.
 ```
