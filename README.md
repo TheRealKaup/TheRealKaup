@@ -10,12 +10,9 @@ I'm also working on a video game called [netset](#netset), which is based on my 
 
 ## KTech
 
-***KTech*** is Kaup's C++ terminal game engine library. It is like any other basic 2D game engine, but its graphics are terminal based.
+***KTech*** is Kaup's C++ 2D terminal game engine library.
 
-I plan to release KTech soon, the only things that I have left to do are:
-
- - Touch up KTech's repository (organize license, issues, releases, et cetera).
- - Edit what already exists in the documentation.
+It is accessible via https://github.com/TheRealKaup/KTech.
 
 ![KTech Small Game](simpleplatform1_10-12-23.png)
 
