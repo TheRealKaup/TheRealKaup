@@ -12,7 +12,7 @@ I'm also working on a video game called [netset](#netset), which is based on my 
 
 ***KTech*** is Kaup's C++ 2D terminal game engine library.
 
-It is accessible via https://github.com/TheRealKaup/KTech.
+It's open here https://github.com/TheRealKaup/KTech.
 
 ![KTech Small Game](simpleplatform1_10-12-23.png)
 
