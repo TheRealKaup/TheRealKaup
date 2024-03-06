@@ -2,7 +2,7 @@
 
 I'm a C++ programmer who focuses on game engines and video games related projects.
 
-I'm the creator and developer of [KTech](#ktech), a 2D terminal game engine library which will be released in the soon future.
+I'm the creator and developer of [KTech](#ktech), a 2D terminal game engine library.
 
 I'm also working on a video game called [netset](#netset), which is based on my game engine.
 
