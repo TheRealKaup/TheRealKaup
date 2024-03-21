@@ -33,5 +33,8 @@ Metaphysics:
 
 # Have Read
 
+Logic:
+- https://en.wikipedia.org/wiki/Logic
+
 Ethics:
 - https://en.wikipedia.org/wiki/Ethics
