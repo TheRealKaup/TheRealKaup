@@ -23,7 +23,7 @@ Ethics:
 
 Logic:
 - (Outline) https://en.wikipedia.org/wiki/Outline_of_logic
-- (Line) https://en.wikipedia.org/wiki/Category:Concepts_in_logic
+- (List) https://en.wikipedia.org/wiki/Category:Concepts_in_logic
 
 Epistemology:
 - https://en.wikipedia.org/wiki/Epistemology
