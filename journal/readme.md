@@ -34,8 +34,8 @@ Computer Science:
 
 ## F
 
-- **FR** - Fully read, as in, the entire document was read without skipping any major part.
+- **FR** - Fully read, as in, the entire document was read without skipping any major part, unless exceptions were mentioned.
 
 ## P
 
-- **PR** - Partially read, for example, only the abstract and conclusion were read, and the rest of the text was skipped.
+- **PR** - Partially read, for example, only the abstract and conclusion were read, and the rest was omitted.
