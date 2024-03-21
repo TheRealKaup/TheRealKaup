@@ -26,7 +26,7 @@ Computer Science:
 
 # Disciplines
 
-- [Computer Science](computer-science.md)
+- [Computer Science](computer_science.md)
 - [Life Science](life_science.md)
 - [Philosophy](philosophy.md)
 
