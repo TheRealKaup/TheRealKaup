@@ -17,7 +17,7 @@ Other files in this directory are for individual fields, and include what I alre
 
 Philosophy:
 - https://en.wikipedia.org/wiki/Epistemology
-- https://en.wikipedia.org/wiki/Metaphysics
+
 
 Computer Science:
 - [cppreference's C++ language section](https://en.cppreference.com/w/cpp/language) / ["Basic Concepts, Identifiers"](https://en.cppreference.com/w/cpp/language/identifiers)
