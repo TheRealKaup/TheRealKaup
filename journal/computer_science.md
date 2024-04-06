@@ -7,6 +7,7 @@
 
 # Will Read
 
+- [Steamworks Documentation](https://partner.steamgames.com/doc/home)
 
 # Have Read
 
