@@ -15,6 +15,9 @@ Other files in this directory are for individual fields, and include what I alre
 
 # Currently Reading
 
+Life Science:
+- Against Inefficacy Objections: The Real Economic Impact of Individual Consumer Choices on Animal Agriculture
+
 Philosophy:
 - https://en.wikipedia.org/wiki/Epistemology
 
