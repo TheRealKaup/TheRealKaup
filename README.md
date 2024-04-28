@@ -10,7 +10,7 @@ I'm also working on a video game called [netset](#netset), which is based on my 
 
 ***KTech*** is Kaup's C++ 2D terminal game engine library.
 
-It's open here https://github.com/TheRealKaup/KTech.
+Git repository - https://github.com/TheRealKaup/KTech.
 
 ![KTech Small Game](simpleplatform1_10-12-23.png)
 
@@ -29,5 +29,7 @@ Here's a screenshot of the game, from 9.10.2023 (d/m/y):
 ## TextureCreator
 
 An application made with KTech for creating cell-based texture files for KTech games. This program is required because each terminal character cell has an RGB foreground color, an RGB background color and a character. This kind of texture can't be created by a normal pixel-based image creator.
+
+Git repository - https://github.com/TheRealKaup/TextureCreator.
 
 ![TextureCreator Screenshot](texturecreatorscreenshot.png)
