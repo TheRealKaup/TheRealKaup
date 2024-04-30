@@ -12,3 +12,4 @@
 # Have Read
 
 - [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/webdriver/)
+- Some of [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
