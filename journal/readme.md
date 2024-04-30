@@ -21,11 +21,9 @@ Life Science:
 Philosophy:
 - https://en.wikipedia.org/wiki/Epistemology
 
-
 Computer Science:
 - [cppreference's C++ language section](https://en.cppreference.com/w/cpp/language) / ["Basic Concepts, Identifiers"](https://en.cppreference.com/w/cpp/language/identifiers)
 - [Pro Git](https://git-scm.com/book/en/v2) / ["3.4 Git Branching - Branching Workflows"](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 # Disciplines
 
