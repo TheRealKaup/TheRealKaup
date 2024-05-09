@@ -6,8 +6,7 @@
 
 - [Notes](#notes)
 - [Will Watch](#will-watch)
-- [S](#s) - [Omori](#omori)
-- [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
+- [S](#s) - [Omori](#omori), [The Last of Us Part II](#the-last-of-us-part-ii)
 - [C](#c) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 
 # Notes 
@@ -35,11 +34,9 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
 
 </details>
 
-# A
-
 ## The Last of Us Part II
 
-Watched without commentary
+Watched without commentary.
 
 <details>
 <summary>Spoliers:</summary>
@@ -50,7 +47,7 @@ Watched without commentary
 
 ## Uncharted 1, 2, 3 and 4
 
-Watched without commentary
+Watched without commentary.
 
 <details>
 <summary>Spoilers:</summary>
