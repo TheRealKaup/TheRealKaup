@@ -6,7 +6,7 @@
 - [Notes](#notes)
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
-- [C](#c) - [Uncharted 1, 2, 3 and 4](#uncharted-1-,-2-,-3-and-4)
+- [C](#c) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 
 # Notes 
 
