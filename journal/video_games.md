@@ -1,9 +1,8 @@
-# ⚠️ SPOILERS ALERT ⚠️
-
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [Notes](#notes)
+- [Will Watch](#will-watch)
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
 - [C](#c) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
@@ -16,7 +15,11 @@ I also watch playthroughs, usually without commentary, instead of actually playi
 
 I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh, allowing me to give opinion.
 
-Spoilers ahead; tread carefully.
+Text containing spoilers are collapsed, text which isn't hidden is usually about if I played or watched and how I watched, and if I recommend watching or playing.
+
+# Will Watch
+
+- Death Stranding
 
 # S
 
