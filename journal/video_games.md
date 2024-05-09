@@ -1,3 +1,7 @@
+# ⚠️ Spoilers Warning ⚠️
+
+Pieces of text which contain spoilers are collapsed, but are of course displayed if the file is not rendered. Text which isn't hidden usually just has techincal information.
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -15,8 +19,6 @@ I also watch playthroughs, usually without commentary, instead of actually playi
 
 I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh, allowing me to give opinion.
 
-Text containing spoilers are collapsed, text which isn't hidden is usually about if I played or watched and how I watched, and if I recommend watching or playing.
-
 # Will Watch
 
 - Death Stranding
@@ -26,6 +28,8 @@ Text containing spoilers are collapsed, text which isn't hidden is usually about
 ## Omori
 
 Watched CallMeCarson's playthrough
+
+I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice, but hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat remote to undertale, isn't my cup of tee.
 
 <details>
 <summary>Spoilers:</summary>
