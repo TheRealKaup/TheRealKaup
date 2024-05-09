@@ -30,6 +30,7 @@ Computer Science:
 - [Computer Science](computer_science.md)
 - [Life Science](life_science.md)
 - [Philosophy](philosophy.md)
+- [Video Games](video_games.md)
 
 # Glossary
 
