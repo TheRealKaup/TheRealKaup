@@ -4,7 +4,6 @@
 
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Notes](#notes)
 - [Will Watch](#will-watch)
 - [S](#s) - [Omori](#omori)
