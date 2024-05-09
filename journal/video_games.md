@@ -26,7 +26,7 @@ I have obviously played/watched more games that are unlisted here. I added only 
 
 ## Omori
 
-Watched CallMeCarson's playthrough
+Watched CallMeCarson's playthrough.
 
 I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice, but hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat remote to undertale, isn't my cup of tee.
 
