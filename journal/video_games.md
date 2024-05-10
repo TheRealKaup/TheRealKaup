@@ -87,7 +87,7 @@ Most of the side content in Cyberpunk 2077 attempts to provoke deep emotional re
 - The world is blown out of proportion by inserting gratuitously complex conundrums, that regardless, are unexciting.
 - The involved main characters feel fake by overreacting, with the aim to make the player care more about the side events.
 
-Even when done successfully, this kind of side content can reduce the importance of the main storyline, potentially weakening the entire storyline.
+Even when done successfully, this kind of side content can reduce the importance of the main storyline, potentially weakening it.
 
 Humorous side content, on the other hand, can be done well with less steps, while emphasizing the main storyline via contrast, without affecting it or its characters directly.
 
