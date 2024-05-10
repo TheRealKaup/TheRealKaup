@@ -93,6 +93,8 @@ Humorous side content, on the other hand, can be done well with less steps, whil
 
 I'm not sure what's preferable in a case where humorous side content doesn't fit. Perhaps abandoning side content altogether and going for a completely linear storyline, or separating side content into a small amount of quests that are long enough to achieve their purpose, is the way to go.
 
+In a sense, this is a matter of quality over quantity. To make more serious side content, quality is tramendously more important than quantity. Humours side content allows for more quantity, which, for instance, can benefit open world games.
+
 ## RPGs
 
 ...
