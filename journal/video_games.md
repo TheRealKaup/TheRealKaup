@@ -9,7 +9,7 @@
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
-- [General Opinions](#general-opinions) - [Side Content Characters](#side-content-characters), [RPGs](#rpgs)
+- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs)
 
 # Notes 
 
@@ -31,7 +31,7 @@ Entry from 9-5-2024
 
 Watched CallMeCarson's playthrough.
 
-I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat remote to undertale, isn't my cup of tee.
+I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat remote to Undertale, isn't my cup of tee.
 
 <details>
 <summary>Spoilers:</summary>
@@ -45,7 +45,7 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
   
   While Basil was capable of his doings, he was not able to fully comprehend them. Simply too young to understand the meaning difference between taking one's own life and an accident. Basil's plan was in good will, only for it to severely traumatize the two. The regrettable framing was what made the tragedy so much more poignant; the characters could never understand why, for that the tragedy lingered so harshly in their minds.
 
-  Isolation seems like a fake way to deal with things, but it's easy to take and sometimes I find it hard to decline. Seeing Sunny's condition truly saddens me.
+  Isolation seems like a fake way to deal with things, but it's easy to take and sometimes I used to find it hard to decline. Seeing Sunny's condition truly saddens me.
 
   On a final note, the bond between Sunny and Basil, is perfectly composed.
 </details>
@@ -60,9 +60,9 @@ Watched without commentary.
 
 <details>
 <summary>Spoliers:</summary>
-  A critism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
+  A criticism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
 
-  Yet TLoU2 left with an impactful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
+  Yet TLoU2 left with an powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
 </details>
 
 # D
@@ -77,9 +77,21 @@ Watched without commentary.
 
 # General Opinions
 
-## Side Content Characters
+## Side Content
 
-...
+Entry from 11-5-2024
+
+The side content of GTA 5 features funny, goofy characters. These side missions and the rest of San Andres have a lovable, thrilling charm, that is considerably distinct from the feel of the main content. You can trip out and hallucinate shooting clowns in a side mission, and then in a main mission commit torture, as the same character. The two scenes work well together because they provide contrast for each other. A wonderful example that doesn't work so well is Cyberpunk 2077.
+
+Most of the side content in Cyberpunk 2077 attempts to provoke deep emotional responses, unsuccessfully. A side quest may have multiple parts, serious topics, a moral dilemma and choices, yet here I am following the fandom wiki to get the iconic weapon I want or the highest payment, unable to care less about this murderer character that now doubts he is the messiah. Johnny persuading the player to act according to his views may affect the player's choices, but the side quest still isn't compelling. With these failed attempts, adverse outcomes affect the main storyline itself:
+- The world is blown out of proportion by inserting gratuitously complex conundrums, that regardless, are unexciting.
+- The involved main characters feel fake by overreacting, with the aim to make the player care more about the side events.
+
+Even when done successfully, this kind of side content can reduce the importance of the main storyline, potentially weakening the entire storyline.
+
+Humorous side content, on the other hand, can be done well with less steps, while emphasizing the main storyline via contrast, without affecting it or its characters directly.
+
+I'm not sure what's preferable in a case where humorous side content doesn't fit. Perhaps abandoning side content altogether and going for a completely linear storyline, or separating side content into a small amount of quests that are long enough to achieve their purpose, is the way to go.
 
 ## RPGs
 
