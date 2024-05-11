@@ -61,8 +61,8 @@ Watched without commentary.
 <details>
 <summary>Spoliers:</summary>
   A criticism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
-
-  Yet TLoU2 left with an powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
+  
+  Yet TLoU2 left with a powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
 </details>
 
 # D
