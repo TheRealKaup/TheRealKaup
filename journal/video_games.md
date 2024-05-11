@@ -69,10 +69,15 @@ Watched without commentary.
 
 ## Uncharted 1, 2, 3 and 4
 
+Entry from 11-5-2024
+
 Watched without commentary.
 
 <details>
 <summary>Spoilers:</summary>
+  I recall hearing the story of Uncharted was worth watching. After doing so, I can tell these games are focused more on gameplay than narrative, and the story never really shines. But, the chemistry between the characters, which I felt more present in the first 3 games, was still quite fun to place in the background. 
+  
+  Uncharted 4 was a bit too long. Credit is where credit's due, its new antagonists and the fight between Rafe and Nathan at the end of the game were quite well written. The ending scene with Nathan's and Elana's daughter was the opposite, though. I really don't understand why they forced that into the game, especially considering the ending so far was as good as one could expect from such narrative.
 </details>
 
 # General Opinions
