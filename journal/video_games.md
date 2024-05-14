@@ -86,7 +86,7 @@ Watched without commentary.
 
 Entry from 11-5-2024
 
-The side content of GTA 5 features funny, goofy characters. These side missions and the rest of San Andres have a lovable, thrilling charm, that is considerably distinct from the feel of the main content. You can trip out and hallucinate shooting clowns in a side mission, and then in a main mission commit torture, as the same character. The two scenes work well together because they provide contrast for each other. A wonderful example that doesn't work so well is Cyberpunk 2077.
+The side content of GTA 5 features comedic, goofy characters. These side missions and the rest of San Andres have a lovable, thrilling charm, that is considerably distinct from the feel of the main content. You can trip out and hallucinate shooting clowns in a side mission, and then in a main mission commit torture, as the same character. The two scenes work well together because they provide contrast for each other. A wonderful example that doesn't work so well is Cyberpunk 2077.
 
 Most of the side content in Cyberpunk 2077 attempts to provoke deep emotional responses, unsuccessfully. A side quest may have multiple parts, serious topics, a moral dilemma and choices, yet here I am following the fandom wiki to get the iconic weapon I want or the highest payment, unable to care less about this murderer character that now doubts he is the messiah. Johnny persuading the player to act according to his views may affect the player's choices, but the side quest still isn't compelling. With these failed attempts, adverse outcomes affect the main storyline itself:
 - The world is blown out of proportion by inserting gratuitously complex conundrums, that regardless, are unexciting.
@@ -94,11 +94,11 @@ Most of the side content in Cyberpunk 2077 attempts to provoke deep emotional re
 
 Even when done successfully, this kind of side content can reduce the importance of the main storyline, potentially weakening it.
 
-Humorous side content, on the other hand, can be done well with less steps, while emphasizing the main storyline via contrast, without affecting it or its characters directly.
+Comedic side content, on the other hand, can be done well with less steps, while emphasizing the tragic, main storyline via contrast, without affecting it or its characters directly.
 
-I'm not sure what's preferable in a case where humorous side content doesn't fit. Perhaps abandoning side content altogether and going for a completely linear storyline, or separating side content into a small amount of quests that are long enough to achieve their purpose, is the way to go.
+I'm not sure what's preferable in a case where humorous side content doesn't fit. Perhaps abandoning side content altogether and going for a completely linear storyline, or separating side content into a small amount of quests that are long enough to achieve their dramatic purpose, is the way to go.
 
-In a sense, this is a matter of quality over quantity. To make more serious side content, quality is tramendously more important than quantity. Humours side content allows for more quantity, which, for instance, can benefit open world games.
+In a sense, this is a matter of quality over quantity. To make more serious side content, quality is tramendously more important than quantity. Comedic side content allows for more quantity, which, for instance, can benefit open world games.
 
 ## RPGs
 
