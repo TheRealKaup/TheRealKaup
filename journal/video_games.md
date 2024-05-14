@@ -1,6 +1,6 @@
 # ⚠️ Spoilers Warning ⚠️
 
-**Pieces of text which contain spoilers are collapsed, but are displayed if the file is not rendered. Text not hidden usually just has techincal information.**
+**Pieces of text which contain spoilers are collapsed, but are displayed if the file is not rendered. Text not hidden is usually techincal information. The "General Opinions" section may include unhidden light spoilers.**
 
 # Table of Contents
 
