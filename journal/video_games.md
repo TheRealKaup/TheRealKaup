@@ -9,7 +9,7 @@
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
-- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs)
+- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching)
 
 # Notes 
 
@@ -108,3 +108,19 @@ Entry from 11-5-2024
 When I play a good RPG, I would want to experience the entirety of its content, or at least the story as intended in my first playthrough. This is intentionally designed to be problematic, as experiencing everything, or the story as intended after failing to do so in the first time, means to replay the game, in some cases multiple times, repeating hours of gameplay while only changing a couple of minutes by doing certain activities differently. RPGs in their nature manipulate the story based on the player's actions. Removing this feature of RPGs and instead offering a completely immutable storyline solves the issue, at the cost of going against the point of RPGs.
 
 The solution: when starting the game, let the player choose between a mutable and an immutable playthrough. The immutable playthrough will convey the story as intended, appealing to new players who wish to avoid accidentally ruining their initial experience of the story. The mutable playthrough will convey the game to its fullest extent, appealing to players who want to dive deeper into the lore and see for themselves how the plot is affected following certain choices.
+
+## Branching
+
+Entry from 14-5-2024
+
+It is usually said that alternative endings are there to enhance player agency in a story. For instance, letting the player choose with whom to end the game allows the player to control the story with their preferences. This functions only if the sum stays the same on the happy-to-sad axis across all said endings, as was done in Cyberpunk 2077.
+
+Cyberpunk 2077 also offers the bad ending, which is distinctively more tragic. No player is satisfied after finishing the game with it, forcing the player to change their initial course of action to obtain one of the more satisfying endings, effectively betraying their agency.
+
+This allows the writer to provide one or more horrifically tragic closings to the plot, even if they hold a trait that would disqualify them from being acceptable resolutions to the story. In a non-branching narrative this would not be allowed, as the experiencer would simply rage at the writer for writing what they did, like the tale as old as time of The Last of Us Part II's release. It is allowed in branching games, as the player or the writer themselves can simply refer to the ending they found most satisfying as the "true ending", but note: the player has sacrificed their agency long ago to experience all of the endings. Choosing which resolution they liked most tells them which path they would have taken, but not which path they had.
+
+Having an excessively tragic, or maybe even comedic "fake ending", provides contrast to the "true ending", making the latter more satisfying and emphasizing its realism and happy or sad outcomes. This, I think, is the biggest utility alternative endings can produce.
+
+Player agency can perhaps be implemented more reliabely via player choices such as ones which only affect the character's following reaction, that itself is trivial to the story. One option can treat said character kindly and the second option unkindly. The player, if they already formed an opinion about the character, will likely stand with their choice if they replay the game, because choosing otherwise will feel bad or undeserved.
+
+Still, this perspective leaves the concept of player agency weakened to an extent I doubt its even there. It's worth mentioning that there are games that have so many choices, it's virtually impossible to experience all distinct paths and thus eliminate player agency.
