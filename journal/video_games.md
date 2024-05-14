@@ -102,6 +102,8 @@ In a sense, this is a matter of quality over quantity. To make more serious side
 
 ## RPGs
 
+Entry from 11-5-2024
+
 When I play a good RPG, I would want to experience the entirety of its content, or at least the story as intended in my first playthrough. This is intentionally designed to be problematic, as experiencing everything, or the story as intended after failing to do so in the first time, means to replay the game, in some cases multiple times, repeating hours of gameplay while only changing a couple of minutes by doing certain activities differently. RPGs in their nature manipulate the story based on the player's actions. Removing this feature of RPGs and instead offering a completely immutable storyline solves the issue, at the cost of going against the point of RPGs.
 
 The solution: when starting the game, let the player choose between a mutable and an immutable playthrough. The immutable playthrough will convey the story as intended, appealing to new players who wish to avoid accidentally ruining their initial experience of the story. The mutable playthrough will convey the game to its fullest extent, appealing to players who want to dive deeper into the lore and see for themselves how the plot is affected following certain choices.
