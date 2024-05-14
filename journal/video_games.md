@@ -22,7 +22,9 @@ I have obviously played/watched more games that are unlisted here. I added only 
 # Will Watch
 
 - Death Stranding
-- NieR Replicant & NieR: Automata
+- NieR Replicant
+- NieR: Automata
+- Uncharted 5
 
 # S
 
