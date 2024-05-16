@@ -9,6 +9,7 @@
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
+- [E](#e) - [NieR Replicant](#nier-replicant)
 - [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching)
 
 # Notes 
@@ -22,7 +23,6 @@ I have obviously played/watched more games that are unlisted here. I added only 
 # Will Watch
 
 - Death Stranding
-- NieR Replicant
 - NieR: Automata
 - Uncharted 5
 
@@ -37,7 +37,10 @@ Watched CallMeCarson's playthrough.
 I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat remote to Undertale, isn't my cup of tee.
 
 <details>
-<summary>Spoilers:</summary>
+  <summary>
+    Spoilers:
+  </summary>
+  
   So far the best written game I've experienced. In fact, the reason I created this file.
 
   CallMeCarson got the good ending with the secret Basil and Sunny cutscene at the end, which is basically the best way to experience the game for the first time. This leads to the other reason I'm happy I've watched his playthrough rather than stop and play the game myself, because in 3 days left I would have ignored Kel and missed the entire day.
@@ -51,6 +54,7 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
   Isolation seems like a fake way to deal with things, but it's easy to take and sometimes I used to find it hard to decline. Seeing Sunny's condition truly saddens me.
 
   On a final note, the bond between Sunny and Basil, is perfectly composed.
+  
 </details>
 
 # A
@@ -62,10 +66,14 @@ Entry from 10-5-2024
 Watched without commentary.
 
 <details>
-<summary>Spoliers:</summary>
+  <summary>
+    Spoliers:
+  </summary>
+  
   A criticism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
   
   Yet TLoU2 left with a powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
+  
 </details>
 
 # D
@@ -77,10 +85,51 @@ Entry from 11-5-2024
 Watched without commentary.
 
 <details>
-<summary>Spoilers:</summary>
+  <summary>
+    Spoilers:
+  </summary>
+  
   I recall hearing the story of Uncharted was worth watching. After doing so, I can tell these games are focused more on gameplay than narrative, and the story never really shines. But, the chemistry between the characters, which I felt more present in the first 3 games, was still quite fun to place in the background. 
   
   Uncharted 4 was a bit too long. Credit is where credit's due, its new antagonists and the fight between Rafe and Nathan at the end of the game were quite well written. The ending scene with Nathan's and Elana's daughter was the opposite, though. I really don't understand why they forced that into the game, especially considering the ending so far was as good as one could expect from such narrative.
+
+</details>
+
+# E
+
+## NieR Replicant
+
+Entry 16-5-2024
+
+Watched the remaster without commentary.
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+  
+  I can't believe the only good character in this game is a book.
+
+  I've read that experiencing this game prior to _NieR: Automata_ is a good idea, and so I did.
+
+  Things the game did well:
+  - Weiss
+  - Side content; it's comedic, and story-wise proportional
+  - Conveying multiple endings
+
+  Things I disliked about the game:
+  - The tendancy of a character saying "yay!", gratuitously, inironically
+  - The cursory open world
+  - World design
+  - Sudden long minutes of reading
+  - Mindless sexualization of a character
+  - General plot; it's uncompelling
+  - NieRly all main storyline characters; they are uncompelling
+  - Music
+  - Character naming
+
+  I am not implying that anything of the listed is "bad", not objectively, not subjectively. I'm an anti-realist, anyway. Put simply, the game isn't for me.
+
 </details>
 
 # General Opinions
