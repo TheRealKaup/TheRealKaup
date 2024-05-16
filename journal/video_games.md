@@ -99,7 +99,7 @@ Watched without commentary.
 
 ## NieR Replicant
 
-Entry 16-5-2024
+Entry from 16-5-2024
 
 Watched the remaster without commentary.
 
