@@ -114,7 +114,7 @@ Watched the remaster without commentary.
 
   Things the game did well:
   - Weiss
-  - Side content; it's comedic, and story-wise proportional
+  - Some of the side content; comedic, and story-wise proportional
   - Conveying multiple endings
 
   Things I disliked about the game:
