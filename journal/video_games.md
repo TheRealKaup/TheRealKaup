@@ -123,8 +123,8 @@ Watched the remaster without commentary.
   - World design
   - Sudden long minutes of reading
   - Mindless sexualization of a character
-  - General plot; it's uncompelling
-  - NieRly all main storyline characters; they are uncompelling
+  - NieRly all main storyline characters; uncompelling
+  - General plot; underwhelming
   - Music
   - Character naming
 
