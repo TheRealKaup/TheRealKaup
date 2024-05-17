@@ -8,9 +8,10 @@
 - [Will Watch](#will-watch)
 - [S](#s) - [Omori](#omori)
 - [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
+- [C](#c) - [Firewatch](#firewatch)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 - [E](#e) - [NieR Replicant](#nier-replicant)
-- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching)
+- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators)
 
 # Notes 
 
@@ -73,6 +74,27 @@ Watched without commentary.
   A criticism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
   
   Yet TLoU2 left with a powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
+  
+</details>
+
+# C
+
+## Firewatch
+
+Entry from 17-5-2024
+
+Played myself. I recommend watching instead.
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+
+  I felt like playing a short game that is light on gameplay, overshot, and got myself the definition of a walking simulator, a genre I absolutely despise playing.
+
+  Story's fine and unoffensive. The "twist that there is no twist" is cool, though works best for a specific set of players. Players who insufficiently emotionally connected with the characters will find it underwhelming (as I did a bit), players who want there to be a twist will be disappointed, and players who don't meet these two conditions will likely fancy it.
+
+  The game's strong suit is unquestionably the storytelling. It's genuinely just great. I adore the concept of faceless characters, and this game conveyed it excellently. For this reason, combined with how stupid I found the deceptively foreshadowed conspiracy twist, I was satisfied by the ending after all.
   
 </details>
 
@@ -175,3 +197,11 @@ Having an excessively tragic, or maybe even comedic "fake ending", provides cont
 Player agency can perhaps be implemented more reliabely via player choices such as ones which only affect the character's following reaction, that itself is trivial to the story. One option can treat said character kindly and the second option unkindly. The player, if they already formed an opinion about the character, will likely stand with their choice if they replay the game, because choosing otherwise will feel bad or undeserved.
 
 Still, this perspective leaves the concept of player agency weakened to an extent I doubt its even there. It's worth mentioning that there are games that have so many choices, it's virtually impossible to experience all distinct paths and thus eliminate player agency.
+
+## Pacing
+
+To be written.
+
+## Walking Simulators
+
+To be written.
