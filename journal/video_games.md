@@ -11,7 +11,7 @@
 - [C](#c) - [Firewatch](#firewatch)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 - [E](#e) - [NieR Replicant](#nier-replicant)
-- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators)
+- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators), [False Dilemmas](#false-dilemmas)
 
 # Notes 
 
