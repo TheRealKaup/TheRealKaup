@@ -25,6 +25,8 @@ I have obviously played/watched more games that are unlisted here. I added only 
 
 - NieR: Automata
 - Uncharted 5
+- Silent Hill
+- Soma
 
 # S
 
