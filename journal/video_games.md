@@ -21,6 +21,15 @@ I also watch playthroughs, usually without commentary, instead of actually playi
 
 I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh, allowing me to give opinion.
 
+How the ranking works:
+- F - Horrible; disrespectful of one's time
+- E - Bad; unnecessary among other options
+- D - Adequate; acceptable as background noise
+- C - Decent
+- B - Great
+- A - Excellent
+- S - Exceptional; amidst few
+
 # Will Watch
 
 - NieR: Automata
