@@ -7,7 +7,7 @@
 - [Notes](#notes)
 - [Will Watch](#will-watch)
 - [S](#s) - [Omori](#omori)
-- [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii)
+- [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club)
 - [C](#c) - [Firewatch](#firewatch)
 - [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 - [E](#e) - [NieR Replicant](#nier-replicant)
@@ -85,6 +85,27 @@ Watched without commentary.
   
   Yet TLoU2 left with a powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
   
+</details>
+
+## Doki Doki Literature Club!
+
+Entry from 20-5-2024
+
+Played. It's a visual novel, so it doesn't make much sense to watch instead.
+
+<details>
+  <summary>
+    Spoliers:
+  </summary>
+
+  The game foreshadowed a bittersweet ending and intentionally concluded tragically. It basically tells you that everything meant nothing, nobody had free will so in fact it was all fake, and the characters can simply be restarted on demand to function as they were programmed; to love the protagonist for no meaningful reason.
+
+  Although the lack of free will, the characters were still sentient. Sayori was forced to enter depression and kill herself. Yuri was forced to become insane, cut and stab herself. Natsuki got her neck broken and was given an abusive background. The protagonist witnessed everyone suffer and die. The characters turned cruel to each other; "Natsuki, no one cares. Why don't you go look for some coins under the vending machines or something?". Restarting the characters doesn't delete these events but rather let them happen again. This ridiculous volume of suffering makes the psychological horror successful.
+
+  Starting the game, everything felt rudimentary. The game conveyed to an extent that this feeling is provoked intentionally, such as by describing Natsuki's analogous manga as "moe". The first act of the story is supposed to be simple, serving only to generate sympathy that will be utilized much later. But then the following act maintained poor quality and felt forced. As not even the protagonist was comprehending the jumpscares, the section was left to be deducted as entirely meta. Meta is cheap; if the characters are unaffected by the events and only the repetitive and gratuitous jumpscares remain, then why should I bother?
+  
+  For this I was surprised to acquire the perspective I hold now. If I were to write this entry right after finishing the game, I would likely place it at C. It managed to go up by 2 tiers after lingering for a day, but this is as far as it can reach, considering the time itself spent with the characters wasn't exactly outstanding.
+
 </details>
 
 # C
