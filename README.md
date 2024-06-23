@@ -1,6 +1,6 @@
 # Kaup
 
-I'm a programmer who focuses on video games related projects.\
+I'm a programmer who focuses on projects related to video games.\
 I'm the developer of [KTech](#ktech), a C++ 2D terminal game engine library.\
 I'm also working on a video game called [netset](#netset), which is based on my game engine.
 
