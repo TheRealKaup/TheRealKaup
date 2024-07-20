@@ -11,7 +11,7 @@ I've recently opened a [journal for my essays](https://github.com/TheRealKaup/Jo
 
 Git repository - https://github.com/TheRealKaup/KTech.
 
-![KTech Small Game](simpleplatform1_10-12-23.png)
+<img src="https://github.com/TheRealKaup/TheRealKaup/blob/main/simpleplatform1_10-12-23.png" alt="KTech Simple Platform Game" width="400"/>
 
 ---
 
