@@ -11,7 +11,7 @@ I've recently opened a [journal for my essays](https://github.com/TheRealKaup/Jo
 
 Git repository - https://github.com/TheRealKaup/KTech.
 
-<img src="simpleplatform1_10-12-23.png" alt="KTech simple platform game" height="500"/>
+<img src="simpleplatform1_10-12-23.png" alt="KTech simple platform game" max-height="500"/>
 
 ---
 
@@ -21,7 +21,7 @@ A KTech game in active development. The player is a freelance hacker that gets j
 
 Here's a screenshot of the game, from 9.10.2023 (d/m/y):
 
-<img src="netset-9.10.2023.png" alt="netset screenshot from 9.10.2023" height="500"/>
+<img src="netset-9.10.2023.png" alt="netset screenshot from 9.10.2023" max-height="500"/>
 
 ---
 
@@ -31,4 +31,4 @@ An application made with KTech for creating cell-based texture files for KTech g
 
 Git repository - https://github.com/TheRealKaup/TextureCreator.
 
-<img src="texturecreatorscreenshot.png" alt="TextureCreator Screenshot" height="500"/>
+<img src="texturecreatorscreenshot.png" alt="TextureCreator Screenshot" max-height="500"/>
