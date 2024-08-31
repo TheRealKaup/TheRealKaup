@@ -1,6 +1,6 @@
 # ⚠️ Spoilers Warning ⚠️
 
-**Pieces of text which contain spoilers are collapsed, but are displayed if the file is not rendered. Text not hidden is usually techincal information. The "General Opinions" section may include unhidden light spoilers.**
+**Spoilers are collapsed, but are still displayed if the file is not rendered. The [General Opinions](#general-opinions) section may include some unhidden, though light spoilers.**
 
 # Table of Contents
 
@@ -17,11 +17,7 @@
 
 # Notes 
 
-This document is different than the other ones, as the titles listed are of video games rather than pieces of text, and I rate each entry, based on its narrative.
-
-I also watch playthroughs, usually without commentary, instead of actually playing the video games, because I prefer to put them in the background and do something more productive in the foreground. Exceptions are detailed.
-
-I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh.
+I write here game reviews, mostly based on narrative and storytelling. Sometimes I watch a playthrough of a game rather than actually play it, and I detail what I've done and what I recommend with each entry.
 
 # Will Watch
 
@@ -38,7 +34,7 @@ Entry from 9-5-2024
 
 Watched CallMeCarson's playthrough.
 
-I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't and I'm happy I didn't, as the actual gameplay experience, which is somewhat similar to Undertale, isn't my cup of tee.
+I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't, and I'm happy I didn't, as the actual walking-simulator-like gameplay experience isn't my cup of tee.
 
 <details>
   <summary>
