@@ -6,11 +6,13 @@
 
 - [Notes](#notes)
 - [Will Watch](#will-watch)
-- [S](#s) - [Omori](#omori)
-- [A](#a) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club)
-- [C](#c) - [Firewatch](#firewatch)
-- [D](#d) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
-- [E](#e) - [NieR Replicant](#nier-replicant)
+- [S; Exceptional](#s-exceptional) - [Omori](#omori)
+- [A; Excellent](#a-excellent) - [Until Then](#until-then)
+- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club)
+- [C; Decent](#c-decent) - [Firewatch](#firewatch)
+- [D; Adequate](#d-adequate) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
+- [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant)
+- [F; Horrible](#f-horrible)
 - [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators), [False Dilemmas](#false-dilemmas), [Meta](#meta)
 
 # Notes 
@@ -19,16 +21,7 @@ This document is different than the other ones, as the titles listed are of vide
 
 I also watch playthroughs, usually without commentary, instead of actually playing the video games, because I prefer to put them in the background and do something more productive in the foreground. Exceptions are detailed.
 
-I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh, allowing me to give opinion.
-
-How the ranking works:
-- F - Horrible; disrespectful of one's time
-- E - Bad; unnecessary among other options
-- D - Adequate; acceptable as background noise
-- C - Decent
-- B - Great
-- A - Excellent
-- S - Exceptional; amidst few
+I have obviously played/watched more games that are unlisted here. I added only the ones that, since the creation of this list, my experience and memory of are still fresh.
 
 # Will Watch
 
@@ -37,7 +30,7 @@ How the ranking works:
 - Silent Hill
 - Soma
 
-# S
+# S; Exceptional
 
 ## Omori
 
@@ -68,7 +61,13 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
   
 </details>
 
-# A
+# A; Excellent
+
+## Until Then
+
+To be written.
+
+# B; Great
 
 ## The Last of Us Part II
 
@@ -104,11 +103,11 @@ Played. It's a visual novel, so it doesn't make much sense to watch instead.
 
   Starting the game, everything felt rudimentary. The game conveyed to an extent that this feeling is provoked intentionally, such as by describing Natsuki's analogous manga as "moe". The first act of the story is supposed to be simple, serving only to generate sympathy that will be utilized much later. But then the following act maintained poor quality and felt forced. As not even the protagonist was acknowledging the jumpscares, the section was left to be deducted as entirely meta. Meta is cheap; if the characters are unaffected by the events and only the repetitive and gratuitous jumpscares remain, then why should I bother?
   
-  For this I was surprised to acquire the perspective I hold now. If I were to write this entry right after finishing the game, I would likely place it at C. It managed to go up by 2 tiers after lingering for a day, but this is as far as it can reach, considering the time itself spent with the characters wasn't exactly outstanding.
+  For this I was surprised to acquire the perspective I hold now. If I were to write this entry right after finishing the game, I would likely place it at C. It managed to go up to here after lingering for a day, but this is as far as it can reach, considering the time itself spent with the characters wasn't exactly outstanding.
 
 </details>
 
-# C
+# C; Decent
 
 ## Firewatch
 
@@ -129,7 +128,7 @@ Played myself. I recommend watching instead.
   
 </details>
 
-# D
+# D; Adequate
 
 ## Uncharted 1, 2, 3 and 4
 
@@ -148,7 +147,7 @@ Watched without commentary.
 
 </details>
 
-# E
+# E; Bad
 
 ## NieR Replicant
 
@@ -184,6 +183,10 @@ Watched the remaster without commentary.
   I am not implying that anything of the listed is "bad", not objectively, not subjectively. I'm an anti-realist, anyway. Put simply, the game isn't for me.
 
 </details>
+
+# F; Horrible
+
+Luckily, nothing's here yet.
 
 # General Opinions
 
