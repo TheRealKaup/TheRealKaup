@@ -61,6 +61,8 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
 
 ## Until Then
 
+Played myself.
+
 To be written.
 
 # B; Great
