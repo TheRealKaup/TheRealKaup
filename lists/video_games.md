@@ -61,9 +61,32 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
 
 ## Until Then
 
-Played myself.
+Entry from 2-9-2024
 
-To be written.
+Played myself (it's a visual novel with no narration).
+
+<details>
+  <summary>
+    Spoliers:
+  </summary>
+
+  Until Then establishes a wonderful narrative, but falls for some really unfortunate mistakes:
+
+  1. Letting parts of the story be driven by dull characters (namely, Jake and Maria).
+  2. Merely involving badly written characters (such as Nicole's parents and Carlo).
+  3. Characters being annoying empaths (that is, overreacting on every singular crumb of grief shared by another character).
+
+  When you've got such a good story, avoid poorly designed and meaningless characters and interactions at all cost, for they can really damage the overall quality of the story. In the case of Until Then, this can be done by simply not adding said characters and interactiosn to begin with; the game has enough without them.
+
+  There are 2 main plot points to the ending that players seem to attract attention to the most: the fates of Cath and the relationship of Mark and Nicole. I frankly didn't care all that much about what will end up with Mark and Nicole, though it was conveyed well and standalone it would correspondingly get a B. Cath's story was exceptional, and standalone I would give it an S.
+
+  The conundrum is that these storylines must coexist for at least the success of Cath's storyline. The looping lifespans of Mark and Nicole provide that frustrating yearning to save Cath which is exactly that necessary component Cath's storyline is relying on.
+
+  While deciding on a final rating for the game, it doesn't seem quite right to just ignore major parts I didn't like as much, especially when they are of the resolution. I might have given the game an S if Cath was just the foremost thing the game would sign off with, which is a change completely possible applying to the game by making all things seem to lead to Cath being finally saved.
+
+  I also don't get what there is to cope with from Mark's and Nicole's ending (as people seem to do in the subreddit). They literally lived 100 lives together, why does it matter that they live 101?
+
+</details>
 
 # B; Great
 
