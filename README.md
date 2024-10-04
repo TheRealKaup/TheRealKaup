@@ -1,7 +1,7 @@
 # Kaup
 
 I'm a programmer who focuses on projects related to video games.\
-I'm the developer of [KTech](#ktech), a C++ 2D terminal game engine library.\
+I'm the developer of [KTech](#ktech), a C++ 2D terminal game engine library for GNU/Linux and Windows.\
 I'm working on a video game called [netset](#netset), made with my game engine.\
 I've recently opened a [journal for my essays](https://github.com/TheRealKaup/Journal).
 
