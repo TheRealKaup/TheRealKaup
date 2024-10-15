@@ -1,13 +1,14 @@
 # Kaup
 
-I'm a programmer who focuses on projects related to video games.\
-I'm the developer of [**KTech**](https://github.com/TheRealKaup/KTech), a C++ 2D terminal game engine library for GNU/Linux and Windows.\
-I'm working on a video game called [**netset**](#netset), made with my game engine.\
-I've recently opened a [journal for my essays](https://github.com/TheRealKaup/Journal).
+Developer of [**KTech**](https://github.com/TheRealKaup/KTech), a C++ 2D terminal game engine.\
+Working on a KTech game called [**netset**](#netset).\
+Recently opened a [journal for my essays](https://github.com/TheRealKaup/Journal).
 
 ---
 
 ## [KTech](https://github.com/TheRealKaup/KTech)
+
+KTech is a C++ 2D terminal game engine library, available for GNU/Linux and Windows.
 
 <img src="simpleplatform1_10-12-23.png" alt="KTech simple platform game" max-height="500"/>
 
