@@ -22,7 +22,6 @@ I write here game reviews, mostly based on narrative and storytelling. Sometimes
 # Will Watch
 
 - NieR: Automata
-- Uncharted 5
 - Silent Hill
 - Soma
 
