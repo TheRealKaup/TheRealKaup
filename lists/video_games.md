@@ -11,11 +11,11 @@
 - [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club)
 - [C; Decent](#c-decent) - [Firewatch](#firewatch)
 - [D; Adequate](#d-adequate) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
-- [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant)
+- [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant), [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
 - [F; Horrible](#f-horrible)
 - [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators), [False Dilemmas](#false-dilemmas), [Meta](#meta)
 
-# Notes 
+# Notes
 
 I write here game reviews, mostly based on narrative and storytelling. Sometimes I watch a playthrough of a game rather than actually play it, and I detail what I've done and what I recommend with each entry.
 
@@ -39,21 +39,21 @@ I recommend CallMeCarson's playthrough if you like the niche content creator, th
   <summary>
     Spoilers:
   </summary>
-  
+
   So far the best written game I've experienced. In fact, the reason I created this file.
 
   CallMeCarson got the good ending with the secret Basil and Sunny cutscene at the end, which is basically the best way to experience the game for the first time. This leads to the other reason I'm happy I've watched his playthrough rather than stop and play the game myself, because in 3 days left I would have ignored Kel and missed the entire day.
-  
+
   The way the game makes the initial main plot (Basil's disappearance) feel less important is phenomenal. Making the experiencer grasp to that plot line only for the characters to almost forget about it in the Last Resort, and then for the game to completely forsake it and reveal the truth in the last 2-3 hours of the game, punched really well. Headspace is reduced to Sunny's mechanism for ignoring the truth; Basil finding the picture containing a piece of it is the reason for his disappearance, and the rest of the characters forgetting about Basil is an additional measure the system takes to maintain the mechanism.
 
   I've read somewhere about a theory that Mari died only from the hanging, I didn't dive deeper into it as I admittedly intentionally don't want to encounter convincing evidence for that, but if Basil knew how to tie a hangman's knot and came up with the entire plan on the place, they probably also knew to check if Mari was actually dead. I don't see why it wouldn't be possible that she died form the fall; I recall that she had a permanent knee injury and landed on the violin, could have fallen and landed really badly.
-  
+
   While Basil was capable of his doings, he was not able to fully comprehend them. Simply too young to understand the meaning difference between taking one's own life and an accident. Basil's plan was in good will, only for it to severely traumatize the two. The regrettable framing was what made the tragedy so much more poignant; the characters could never understand why, for that the tragedy lingered so harshly in their minds.
 
   Isolation seems like a fake way to deal with things, but it's easy to take and sometimes I used to find it hard to decline. Seeing Sunny's condition truly saddens me.
 
   On a final note, the bond between Sunny and Basil, is perfectly composed.
-  
+
 </details>
 
 # A; Excellent
@@ -66,7 +66,7 @@ Played myself (it's a visual novel with no narration).
 
 <details>
   <summary>
-    Spoliers:
+    Spoilers:
   </summary>
 
   Until Then establishes a wonderful narrative, but falls for some really unfortunate mistakes:
@@ -97,13 +97,13 @@ Watched without commentary.
 
 <details>
   <summary>
-    Spoliers:
+    Spoilers:
   </summary>
-  
+
   A criticism I've heard is about the lack of character development. This is true, none of the characters developed in a way that felt meaningful.
-  
+
   Yet TLoU2 left with a powerful ending without character development. This is the first time I recognize a good story that its characters don't overcome challenging circumstances by changing. They actually don't overcome challenging circumstances in the first place. Rather, they stay the same, stuck in their perpetual cycle of retaliation, refusing to let go of their motives. This, is the opposite of character development; this, is the destruction of characters.
-  
+
 </details>
 
 ## Doki Doki Literature Club!
@@ -114,7 +114,7 @@ Played. It's a visual novel, so it doesn't make much sense to watch instead.
 
 <details>
   <summary>
-    Spoliers:
+    Spoilers:
   </summary>
 
   The game foreshadowed a bittersweet ending and intentionally concluded tragically. It basically tells you that everything meant nothing, nobody had free will so in fact it was all fake, and the characters can simply be restarted on demand to function as they were programmed; to love the protagonist for no meaningful reason.
@@ -122,7 +122,7 @@ Played. It's a visual novel, so it doesn't make much sense to watch instead.
   Although the lack of free will, the characters were still sentient. Sayori was forced to enter depression and kill herself. Yuri was forced to become insane, cut and stab herself. Natsuki got her neck broken and was given an abusive background. The protagonist witnessed everyone suffer and die. The characters turned cruel to each other; "Natsuki, no one cares. Why don't you go look for some coins under the vending machines or something?". Restarting the characters doesn't delete these events but rather let them happen again. This ridiculous volume of suffering distributed across short-lasting iterations of innocent characters makes the psychological horror successful. A scene that expresses this motif well is when Natsuki, at the end of the second act, returns to class after the weekend, completely unaware of anything that previously happened, sees Yuri's corpse, throws up and immediately gets deleted.
 
   Starting the game, everything felt rudimentary. The game conveyed to an extent that this feeling is provoked intentionally, such as by describing Natsuki's analogous manga as "moe". The first act of the story is supposed to be simple, serving only to generate sympathy that will be utilized much later. But then the following act maintained poor quality and felt forced. As not even the protagonist was acknowledging the jumpscares, the section was left to be deducted as entirely meta. Meta is cheap; if the characters are unaffected by the events and only the repetitive and gratuitous jumpscares remain, then why should I bother?
-  
+
   For this I was surprised to acquire the perspective I hold now. If I were to write this entry right after finishing the game, I would likely place it at C. It managed to go up to here after lingering for a day, but this is as far as it can reach, considering the time itself spent with the characters wasn't exactly outstanding.
 
 </details>
@@ -145,7 +145,7 @@ Played myself. I recommend watching instead.
   Story's fine and unoffensive. The "twist that there is no twist" is cool, though works best for a specific set of players. Players who insufficiently emotionally connected with the characters will find it underwhelming (as I did a bit), players who want there to be a twist will be disappointed, and players who don't meet these two conditions will likely fancy it.
 
   The game's strong suit is unquestionably the storytelling. It's genuinely just great. I adore the concept of faceless characters, and this game conveyed it excellently. For this reason, combined with how stupid I found the deceptively foreshadowed conspiracy twist, I was satisfied by the ending after all.
-  
+
 </details>
 
 # D; Adequate
@@ -160,9 +160,9 @@ Watched without commentary.
   <summary>
     Spoilers:
   </summary>
-  
-  I recall hearing the story of Uncharted was worth watching. After doing so, I can tell these games are focused more on gameplay than narrative, and the story never really shines. But, the chemistry between the characters, which I felt more present in the first 3 games, was still quite fun to place in the background. 
-  
+
+  I recall hearing the story of Uncharted was worth watching. After doing so, I can tell these games are focused more on gameplay than narrative, and the story never really shines. But, the chemistry between the characters, which I felt more present in the first 3 games, was still quite fun to place in the background.
+
   Uncharted 4 was a bit too long. Credit is where credit's due, its new antagonists and the fight between Rafe and Nathan at the end of the game were quite well written. The ending scene with Nathan's and Elana's daughter was the opposite, though. I really don't understand why they forced that into the game, especially considering the ending so far was as good as one could expect from such narrative.
 
 </details>
@@ -179,7 +179,7 @@ Watched the remaster without commentary.
   <summary>
     Spoilers:
   </summary>
-  
+
   I can't believe the only good character in this game is a book.
 
   I've read that experiencing this game prior to _NieR: Automata_ is a good idea, and so I did.
@@ -204,9 +204,23 @@ Watched the remaster without commentary.
 
 </details>
 
+## Bendy and the Ink Machine
+
+Entry from 4-2-2025
+
+Watched without commentary.
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+
+  Watched the game to learn more about mascot horrors. Its plot is as uninspired as the rest. Also, the art style is not particularly attractive, and is frequently interrupted by anything made of ink (especially the enemies). The moment I knew this game was bad was when the protagonist unironically commented "another day another dollar"; voice acting and the script are in accordance to the game's ranking. Furthermore, it can't be called a horror game, as it's not even remotely scary, obviously due to the sound and visual design.
+</details>
+
 # F; Horrible
 
-Luckily, nothing's here yet.
+Thankfully, nothing's here yet.
 
 # General Opinions
 
