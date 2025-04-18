@@ -1,4 +1,4 @@
-# ⚠️ Spoilers Warning ⚠️
+# ⚠️ Spoilers Warning
 
 **Spoilers are collapsed, but are still displayed if the file is not rendered. The [General Opinions](#general-opinions) section may include some unhidden, though light spoilers.**
 
@@ -17,13 +17,9 @@
 
 # Notes
 
-I write here game reviews, mostly based on narrative and storytelling. Sometimes I watch a playthrough of a game rather than actually play it, and I detail what I've done and what I recommend with each entry.
+I review games here with emphasis on narrative and storytelling. I default to watching playthroughs rather than actually playing games. I revert to playing when the gameplay itself looks appealing, or, when dialogue isn't voiced not there is a creator I like that reads it out loud, or, when I want my full attention on the game.
 
-# Will Watch
-
-- NieR: Automata
-- Silent Hill
-- Soma
+I prefer reviewing games shortly after finishing them, which is why games I played before the file aren't reviewd here.
 
 # S; Exceptional
 
