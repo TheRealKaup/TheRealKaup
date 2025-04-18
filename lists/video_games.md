@@ -123,6 +123,22 @@ Played. It's a visual novel, so it doesn't make much sense to watch instead.
 
 </details>
 
+## ENA: Dream BBQ (chapter 1)
+
+Played and watched gavintino's playthrough. I recommend watching his playthrough if you like the creator.
+
+<details>
+  <summary>
+    Spoilers:
+  </summart>
+
+  I found it a bit tricky to rank a slice-of-life game that pretty much makes no sense. It's pretty interesting: having this virtually incoherent plot didn't make me think that the plot is bad, it just made me think "I don't get it" and shift my full attention to storytelling (character interactions; visuals; music). Usually when I rank a game, I split it to 2, plot and storytelling, rank each, and roughly use the mean. My point is, with this "game", the "plot" is not 0, but rather neutral, because it looks like it's expressing something, but I don't really know what, so who am I to think that it's a "bad" "plot". Peak rationalization. Anyway, it's pretty good.
+
+  The gameplay (although not the focus of this file) surely could have been better (and will certainly improve, being the first chapter). Still, a video game is always the ultimate format, especially for ENA which works very well with easter-eggs and whatnot.
+
+  Also, this is an opportunity to express my thoughts on releasing games in chapters (this game, for example). I like it. It allows smaller productions to reach disproportionately-high qualities while not abandoning development before anything is released, and makes each chapter progressively better due to reviews and expansion in production based on income from past chapters. I'm even fond of forgetting about the game between each chapter (AKA "losing hype"), and check on it once in a while until I realize a new chapter was (or is about) to be released. This is not because I like "losing interest" in things (which is not what's happening here), but because I have a life, and I prefer having the things I like extend for more time in the duration of that life. By "extend", I mean introduce new content, not just echo in time and space after being considered finished.
+</details>
+
 # C; Decent
 
 ## Firewatch
