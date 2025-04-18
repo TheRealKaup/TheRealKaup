@@ -8,7 +8,7 @@
 - [Will Watch](#will-watch)
 - [S; Exceptional](#s-exceptional) - [Omori](#omori)
 - [A; Excellent](#a-excellent) - [Until Then](#until-then)
-- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club)
+- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club), [ENA: Dream BBQ (chapter 1))[#ena-dream-bbq-chapter-1]
 - [C; Decent](#c-decent) - [Firewatch](#firewatch)
 - [D; Adequate](#d-adequate) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 - [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant), [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
@@ -130,7 +130,7 @@ Played and watched gavintino's playthrough. I recommend watching his playthrough
 <details>
   <summary>
     Spoilers:
-  </summart>
+  </summary>
 
   I found it a bit tricky to rank a slice-of-life game that pretty much makes no sense. It's pretty interesting: having this virtually incoherent plot didn't make me think that the plot is bad, it just made me think "I don't get it" and shift my full attention to storytelling (character interactions; visuals; music). Usually when I rank a game, I split it to 2, plot and storytelling, rank each, and roughly use the mean. My point is, with this "game", the "plot" is not 0, but rather neutral, because it looks like it's expressing something, but I don't really know what, so who am I to think that it's a "bad" "plot". Peak rationalization. Anyway, it's pretty good.
 
