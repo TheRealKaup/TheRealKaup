@@ -8,7 +8,7 @@
 - [Will Watch](#will-watch)
 - [S; Exceptional](#s-exceptional) - [Omori](#omori)
 - [A; Excellent](#a-excellent) - [Until Then](#until-then)
-- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club), [ENA: Dream BBQ (chapter 1))[#ena-dream-bbq-chapter-1]
+- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club), [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1)
 - [C; Decent](#c-decent) - [Firewatch](#firewatch)
 - [D; Adequate](#d-adequate) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
 - [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant), [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
