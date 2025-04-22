@@ -5,7 +5,6 @@
 # Table of Contents
 
 - [Notes](#notes)
-- [Will Watch](#will-watch)
 - [S; Exceptional](#s-exceptional) - [Omori](#omori)
 - [A; Excellent](#a-excellent) - [Until Then](#until-then)
 - [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club), [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1)
@@ -104,23 +103,29 @@ Watched without commentary.
 
 ## Doki Doki Literature Club!
 
-Entry from 20-5-2024
+Entry from 20-5-2024. Updated 4-22-2025.
 
-Played. It's a visual novel, so it doesn't make much sense to watch instead.
+Played first. Updated entry after watching gavintino's playthrough. I recommend watching the playthrough if you like the creator.
 
 <details>
   <summary>
     Spoilers:
   </summary>
+  
+  After concluding with a tragic ending, the game basically tells you that everything meant nothing, nobody had free will, and so it was all fake: the characters can simply be restarted on demand to function as they were programmed (to love the protagonist for no particular reason). This doesn't go against the used phsychological-horror motif, but the way it's phrased at the end almost disregards that the characters were still considered sentient and all the suffering did exist and wasn't "reverted" or anything like that. Quite the opopsite is true, because restarting the characters simply lets more horror to be experienced.
 
-  The game foreshadowed a bittersweet ending and intentionally concluded tragically. It basically tells you that everything meant nothing, nobody had free will so in fact it was all fake, and the characters can simply be restarted on demand to function as they were programmed; to love the protagonist for no meaningful reason.
+  Just to be clear, I believe the main motif was not finger-licking, but in fact suffering distributed across repeating and short-lasting iterations of restarted characters. How about that as a concise explanation? Put that in your pipe and smoke it. A scene that expresses this motif well is when Natsuki, at the end of the second act, returns to class after the weekend, completely unaware of anything that previously happened, sees Yuri's corpse, throws up and immediately gets deleted.
 
-  Although the lack of free will, the characters were still sentient. Sayori was forced to enter depression and kill herself. Yuri was forced to become insane, cut and stab herself. Natsuki got her neck broken and was given an abusive background. The protagonist witnessed everyone suffer and die. The characters turned cruel to each other; "Natsuki, no one cares. Why don't you go look for some coins under the vending machines or something?". Restarting the characters doesn't delete these events but rather let them happen again. This ridiculous volume of suffering distributed across short-lasting iterations of innocent characters makes the psychological horror successful. A scene that expresses this motif well is when Natsuki, at the end of the second act, returns to class after the weekend, completely unaware of anything that previously happened, sees Yuri's corpse, throws up and immediately gets deleted.
+  The second act is weakpoint, while initially experiencing the game. I dislked it for its meta, which I consider inherently cheap beacuse it sets aside all the characters, who the game worked so hard on developing throughout the first act. I'm absolutely not suggesting that this should have been changed; it defines the game because it's necessary for the motif (which I am fond of). Designing a story is a matter of settling on the most important concepts you want to express, deducing which further concepts are necessary to express for those main concepts, and then choosing additional (non-contradictory) concepts based on overall utility (that is, which set of extra concepts intensifies and supplements the main concepts and the overall experience to the furthest extent). What I'm pointing out is that specifically the meta concept (which I think was necessary for the creator to express what they wanted in the game), greatly manifested throghout the second act, which ultimately made me favor it less, at least while actually experiencing it (and not specifically re-evaluating it in retrospect). Simply put: if the characters are unaffected by the horror and there's only repetitive and gratuitous jumpscares, then why should I bother?
 
-  Starting the game, everything felt rudimentary. The game conveyed to an extent that this feeling is provoked intentionally, such as by describing Natsuki's analogous manga as "moe". The first act of the story is supposed to be simple, serving only to generate sympathy that will be utilized much later. But then the following act maintained poor quality and felt forced. As not even the protagonist was acknowledging the jumpscares, the section was left to be deducted as entirely meta. Meta is cheap; if the characters are unaffected by the events and only the repetitive and gratuitous jumpscares remain, then why should I bother?
+  <details>
+    <summary>
+      Spoilers for [Until Then](#until-then):
+    </summary>
 
-  For this I was surprised to acquire the perspective I hold now. If I were to write this entry right after finishing the game, I would likely place it at C. It managed to go up to here after lingering for a day, but this is as far as it can reach, considering the time itself spent with the characters wasn't exactly outstanding.
+    Updating the review (which is something I prefer not doing, but watching the game again made me really want to rephrase it), also reminded me of Until Then, which implemented the recurring-acts thing much better (beacuse the characters acknowledge it the further they go, and there are much more changes between each repetition hence more replayability). Generally, Until Then is definitely a better game, considering it conveys a richer and longer plot.
 
+  </details>
 </details>
 
 ## ENA: Dream BBQ (chapter 1)
