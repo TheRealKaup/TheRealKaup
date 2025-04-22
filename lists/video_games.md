@@ -119,11 +119,11 @@ Played first. Updated entry after watching gavintino's playthrough. I recommend 
   The second act is weakpoint, while initially experiencing the game. I dislked it for its meta, which I consider inherently cheap beacuse it sets aside all the characters, who the game worked so hard on developing throughout the first act. I'm absolutely not suggesting that this should have been changed; it defines the game because it's necessary for the motif (which I am fond of). Designing a story is a matter of settling on the most important concepts you want to express, deducing which further concepts are necessary to express for those main concepts, and then choosing additional (non-contradictory) concepts based on overall utility (that is, which set of extra concepts intensifies and supplements the main concepts and the overall experience to the furthest extent). What I'm pointing out is that specifically the meta concept (which I think was necessary for the creator to express what they wanted in the game), greatly manifested throghout the second act, which ultimately made me favor it less, at least while actually experiencing it (and not specifically re-evaluating it in retrospect). Simply put: if the characters are unaffected by the horror and there's only repetitive and gratuitous jumpscares, then why should I bother?
 
   <details>
-    <summary>
-      Spoilers for [Until Then](#until-then):
-    </summary>
+  <summary>
+    Spoilers for Until Then:
+  </summary>
 
-    Updating the review (which is something I prefer not doing, but watching the game again made me really want to rephrase it), also reminded me of Until Then, which implemented the recurring-acts thing much better (beacuse the characters acknowledge it the further they go, and there are much more changes between each repetition hence more replayability). Generally, Until Then is definitely a better game, considering it conveys a richer and longer plot.
+  Updating the review (which is something I prefer not doing, but watching the game again made me really want to rephrase it), also reminded me of Until Then, which implemented the recurring-acts thing much better (beacuse the characters acknowledge it the further they go, and there are much more changes between each repetition hence more replayability). Generally, Until Then is definitely a better game, considering it conveys a richer and longer plot.
 
   </details>
 </details>
