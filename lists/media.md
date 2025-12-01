@@ -4,21 +4,41 @@
 
 # Table of Contents
 
+- [⚠️ Spoilers Warning](#️-spoilers-warning)
+- [Table of Contents](#table-of-contents)
 - [Notes](#notes)
-- [S; Exceptional](#s-exceptional) - [Omori](#omori)
-- [A; Excellent](#a-excellent) - [Until Then](#until-then)
-- [B; Great](#b-great) - [The Last of Us Part II](#the-last-of-us-part-ii), [Doki Doki Literature Club!](#doki-doki-literature-club), [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1)
-- [C; Decent](#c-decent) - [Firewatch](#firewatch)
-- [D; Adequate](#d-adequate) - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
-- [E; Bad](#e-bad) - [NieR Replicant](#nier-replicant), [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
+- [S; Exceptional](#s-exceptional)
+  - [Omori](#omori)
+- [A; Excellent](#a-excellent)
+  - [Until Then](#until-then)
+  - [Death Note](#death-note)
+  - [Crime and Punishment](#crime-and-punishment)
+- [B; Great](#b-great)
+  - [The Last of Us Part II](#the-last-of-us-part-ii)
+  - [Doki Doki Literature Club!](#doki-doki-literature-club)
+  - [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1)
+  - [Attack on Titan](#attack-on-titan)
+  - [Solo Leveling (seasons 1-2)](#solo-leveling-seasons-1-2)
+- [C; Decent](#c-decent)
+  - [Firewatch](#firewatch)
+- [D; Adequate](#d-adequate)
+  - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
+- [E; Bad](#e-bad)
+  - [NieR Replicant](#nier-replicant)
 - [F; Horrible](#f-horrible)
-- [General Opinions](#general-opinions) - [Side Content](#side-content), [RPGs](#rpgs), [Branching](#branching), [Pacing](#pacing), [Walking Simulators](#walking-simulators), [False Dilemmas](#false-dilemmas), [Meta](#meta)
+  - [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
+- [General Opinions](#general-opinions)
+  - [Side Content](#side-content)
+  - [RPGs](#rpgs)
+  - [Branching](#branching)
 
 # Notes
 
-I review games here with emphasis on narrative and storytelling. I default to watching playthroughs rather than actually playing games. I revert to playing when the gameplay itself looks appealing, or, when dialogue isn't voiced not there is a creator I like that reads it out loud, or, when I want my full attention on the game.
+I review media here with emphasis on narrative and storytelling. Media usually includes video games and shows.
 
-I prefer reviewing games shortly after finishing them, which is why games I played before the file aren't reviewd here.
+I prefer reviewing media shortly after finishing them, which is why media I consume before this file was created aren't rated here. This is because I rate media based on the final feeling/impression I got from the ending of each piece, which is short-lived. This rule doesn't always apply, sometimes I decide to add an item to the list weeks after, or after rewatching/replaying it for the second or third time (sometimes changing its rating if it was listed here already); this is because I like to rate things.
+
+As for games, I default to watching playthroughs rather than actually playing them. I revert to playing when the gameplay itself looks appealing, or, when dialogue isn't voiced nor there is a creator I like that reads it out loud, or, when I want my full attention on the game.
 
 # S; Exceptional
 
@@ -82,6 +102,18 @@ Played myself (it's a visual novel with no narration).
 
 </details>
 
+## Death Note
+
+Entry from 2-12-2025
+
+Second time watching it made me want to rate it. I will not be reviewing it here.
+
+## Crime and Punishment
+
+Entry from 2-12-2025
+
+I don't remember what exact edition I read. It was a while ago. I just really liked the story. I just thought it would be hilarious to rank it here.
+
 # B; Great
 
 ## The Last of Us Part II
@@ -111,7 +143,7 @@ Played first. Updated entry after watching gavintino's playthrough. I recommend 
   <summary>
     Spoilers:
   </summary>
-  
+
   I believe the main motif was not finger-sucking, but in fact suffering distributed across repeating and short-lasting iterations of restarted characters. How about that as a concise explanation? Put that in your pipe and smoke it. A scene that expresses this motif well is when Natsuki, at the end of the second act, returns to class after the weekend, completely unaware of anything that previously happened, sees Yuri's corpse, throws up and immediately gets deleted.
 
   The second act is weakpoint, while initially experiencing the game. I dislked it for its meta, which I consider inherently cheap beacuse it sets aside all the characters throughout the second act, who the game worked so hard on developing throughout the first act. I'm absolutely not suggesting that this should have been changed, what wouldn't make any sense: it defines the game because it's necessary for the motif (which I am fond of). Designing a story is a matter of settling on the most important concepts you want to express, deducing which further concepts are necessary to express for those main concepts, and then choosing additional (non-contradictory) concepts based on overall utility (that is, which set of extra concepts intensifies and supplements the main concepts and the overall experience to the furthest extent). What I'm pointing out is that specifically the meta concept (which I think was necessary for the creator to express what they wanted in the game), greatly manifested throughout the second act, which ultimately made me favor it less, at least while actually experiencing it (and not specifically while re-evaluating it in retrospect). Simply put: if the characters are unaffected by the horror and there's only repetitive and gratuitous jumpscares, then why should I bother?
@@ -142,13 +174,47 @@ Played and watched gavintino's playthrough. I recommend watching his playthrough
   Also, this is an opportunity to express my thoughts on releasing games in chapters (this game, for example). I like it. It allows smaller productions to reach disproportionately-high qualities while not abandoning development before anything is released, and makes each chapter progressively better due to reviews and expansion in production based on income from past chapters. I'm even fond of forgetting about the game between each chapter (AKA "losing hype"), and check on it once in a while until I realize a new chapter was (or is about) to be released. This is not because I like "losing interest" in things (which is not what's happening here), but because I have a life, and I prefer having the things I like extend for more time in the duration of that life. By "extend", I mean introduce new content, not just echo in time and space after being considered finished.
 </details>
 
+## Attack on Titan
+
+Entry from 2-12-2025
+
+<details>
+  <summary>
+    Spoilers (and slightly to Frieren season 1, Death Note and Crime and Punishment):
+  </summary>
+
+  There were a couple of episodes that were truly excellent. For example, the couple of episodes which end with basil burning to death or whatever.
+
+  However, I thought the ending was overcomplicated, and was just a "let's throw a bunch of plot elements to make a grand ending". Frieren season 1 did this as well where for some reason the last couple of minutes were: something happens, flashback to a character saying that they know that this thing will happen, another something happens, flashback again. I don't get it, I think it's stupid and has nothing to do with anything. What Death Note, and something like Crime and Punishment, do really well is throw at you all of the complicated plot throughout the story but hit you with a straightforward, simple ending that directly hits the pain point that the story is trying to push, and that's something AOT misses.
+
+  I enjoyed most of the series and overcome the cringe af anime elements like a champ. So it still gets a strong B, it is great.
+
+</details>
+
+## Solo Leveling (seasons 1-2)
+
+Entry from 2-12-2025
+
+<details>
+  <summary>
+    Spoilers (and to Invincible, and fucking House I guess):
+  </summary>
+
+  This show took me by surprise. I go for the "5 episode rule" where I watch the first 5 episodes and decide if I continue from there (this rule only works for shows with short episodes). It only passed the 5 episode rule because I really had nothing else to do that day and then I ended up watching it pretty much in a single seating and enjoyed it greatly. Hence it is great.
+
+  Not sure if I really like this genre though, there are just scenes where I went "what the fuck am I even looking at" as Jinwoo ends his absurd fight that makes no sense with a punch that generates a nuclear explosion or whatever. This is contrary to Invincible which does it differently (it's not necessarily better, it's just something different), and I prefer that. Taking Invincible season 3 episode 8 as an example, throughout the episode you can get an approximation of each character's strength, exertion and fatigue, which add another layer to the viewing experience which I feel is generally missing in Solo Leveling (but that's fine, instead we get hella visuals and cool stuff).
+
+  While not perfectly analogous, this does remind me of the problem I had with House, where I couldn't actually understand whether the problem at hand is difficult and constitutes a challenge to the characters that will make them struggle, because I am not a fucking doctor, literally the entire episode is a pile of random technical words which mean nothing to me, what is the point in watching this shit.
+
+</details>
+
 # C; Decent
 
 ## Firewatch
 
 Entry from 17-5-2024
 
-Played myself. I recommend watching instead.
+Played myself. I recommend watching instead (if you are interested in the game, I don't consider it worth it).
 
 <details>
   <summary>
@@ -219,9 +285,11 @@ Watched the remaster without commentary.
 
 </details>
 
+# F; Horrible
+
 ## Bendy and the Ink Machine
 
-Entry from 4-2-2025
+Entry from 4-2-2025, updated 2-12-2025
 
 Watched without commentary.
 
@@ -231,11 +299,10 @@ Watched without commentary.
   </summary>
 
   Watched the game to learn more about mascot horrors. Its plot is as uninspired as the rest. Also, the art style is not particularly attractive, and is frequently interrupted by anything made of ink (especially the enemies). The moment I knew this game was bad was when the protagonist unironically commented "another day another dollar"; voice acting and the script are in accordance to the game's ranking. Furthermore, it can't be called a horror game, as it's not even remotely scary, obviously due to the sound and visual design.
+
+  Update from 2-12-2025: I thought about the meaning of a "horrible game" recently. Originally I thought something like Garten of Banban would be it, but, those game or just bad because they are still somewhat amusing if you find the right streamer to commentate while playing it. No, a **horrible game** is one which you feel FOMO for not staring at a wall while you play it. Like, a game which makes you physically feel the minutes of your lifespan being wasted as you play it. It's a terrifying feeling, true fear. Now, I was watching a gameplay of this game while doing something else, I wasn't playing it. But if I was playing it, it would be horrible.
 </details>
 
-# F; Horrible
-
-Thankfully, nothing's here yet.
 
 # General Opinions
 
@@ -280,19 +347,3 @@ Having an excessively tragic, or maybe even comedic "fake ending", provides cont
 Player agency can perhaps be implemented more reliabely via player choices such as ones which only affect the character's following reaction, that itself is trivial to the story. One option can treat said character kindly and the second option unkindly. The player, if they already formed an opinion about the character, will likely stand with their choice if they replay the game, because choosing otherwise will feel bad or undeserved.
 
 Still, this perspective leaves the concept of player agency weakened to an extent I doubt its even there. It's worth mentioning that there are games that have so many choices, it's virtually impossible to experience all distinct paths and thus eliminate player agency.
-
-## Pacing
-
-To be written.
-
-## Walking Simulators
-
-To be written.
-
-## False Dilemmas
-
-To be written.
-
-## Meta
-
-To be written.
