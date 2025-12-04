@@ -23,9 +23,9 @@
   - [Firewatch](#firewatch)
 - [D; Mediocre](#d-mediocre)
   - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
+  - [Code Geass: Lelouch of the Rebellion](#code-geass-lelouch-of-the-rebellion)
 - [E; Bad](#e-bad)
   - [NieR Replicant](#nier-replicant)
-  - [Code Geass: Lelouch of the Rebellion](#code-geass-lelouch-of-the-rebellion)
 - [F; Horrible](#f-horrible)
   - [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
 - [General Opinions](#general-opinions)
@@ -251,6 +251,33 @@ Watched without commentary.
 
 </details>
 
+## Code Geass: Lelouch of the Rebellion
+
+Entry from 4-12-2025
+
+<details>
+  <summary>
+    Spoilers (and for Death Note):
+  </summary>
+
+  This show does not live up to its popularity. I really did not like it.
+
+  I want to quote a paragraph from the description on episode 21, season 2, "The Ragnarok Connection":
+
+  > Lelouch counters that such a world would be gentle only for his parents and is nothing like what Nunnally wanted. Suzaku inwardly muses that Lelouch might be telling the truth, recalling how both Euphemia and Shirley never revealed Lelouch's identity as Zero, even till the end. Charles says that even if Lelouch is right, it doesn't matter since he's too late to prevent Ragnarök, but Lelouch points out that he's Zero, "the man who works miracles", and removes his contact lens. Charles states that his Geass is useless now, as it cannot affect him or anyone else present. Lelouch then corrects him, pointing out there's someone he hasn't accounted for: C's World, which is the will of humanity itself. He then fires one of Charles's quotes back at him: "All men are not created equal." Lelouch claims that because of that, Charles can understand that his Geass will work. Charles calls Lelouch foolish, saying that the power of kings can't defeat the gods. Lelouch corrects him again, saying that he doesn't want to fight the gods, but only make a request to them. He then looks up at the image of Jupiter, declaring that he now knows who he truly is. Using his Geass, Lelouch communicates with the collective unconscious, begging the gods to not stop the progress of time.
+
+  While serving an extreme example, the entire plot of the this show makes no fucking sense and is utterly stupid. While, for the most part, you can understand what is happening and verbally explain each plot point and what caused it, throughout the show **causality** is random and things happen solely to serve the plot. Everything is overcomplicated and as a result everything is filled with holes, which may not be inherently contradictory, but rather they make you think "literally anything else could have happened". At no point during the show I felt anxious about what is going to occur next because it always going to end the way Lelouch planned and at no point something suggests otherwise. For example, how come Schneizel got outsmarted by Lelouch at the end? No clue, period.
+
+  Considering this world behaves randomly, Lelouch's plans are against the laws of logic, hence he is omniscient. Then why does Lelouch die at the end? I have no fucking idea, a [Genghis Gambit](https://tropedia.fandom.com/wiki/Genghis_Gambit) is just a wrong choice for an ending. Literally nothing can defeat Lelouch, he simply decided to end the story this way, and just as he planned a bittersweet ending, he could have planned a happy ending. Based on the premise that causality in this show is random, it is impossible to refute this argument, thus it is true.
+
+  Furthermore, the characters are shallow and are as badly written as the plot. I hate anime fluff and this show is packing with it. Characters go "this is just a single unit, I will go right at it!" while their literal commander goes "no! don't do it!" as they disobey their orders and fucking die, this, 10 times each episode. The art style is unappealing. A good portion of the sentences end like this, then. This might be only in the English dub, but I am certain reading English subtitles would be a worse experience, so. Once you notice it really gets on your nevers, however.
+
+  Naturally, I will compare it to Death Note. Death Note is a wonderful example of logical plot writing. Once you get your plot to be logical (as well as psychological, which is probably the toughest part), you can proceed with storytelling and production. Code Geass failed the first step, so instead of logical it just seems random, which means the viewing experience will be at least boring. Let me use an example that will help clarify why it works this way, though this will work as long as your are not a medical doctor: go watch an episode of House unless you've already done so. You will notice how because you don't understand the technical terms and how medicine works at a professional level, you don't actually understand the challenge which the characters are facing and the plot points seem **random**. Watching House will be a boring experience, unless you like the show's humor, or you are a fan of medical drama which likely means your are either an actual medical doctor or at least someone interested in medicine and know about it more than the average person (hence it won't seem completely random and it won't be boring), *or* you enjoy soap opera, in which case, this file is not relevant to you. I praise Death Note for being a proper psychological thriller: as you watch the show, your mind is racing to figure out what L has planned, and whether Light's move is going to achieve what he wants. Is Near's confidence really justified? Your brain is provided with a challenge and you think about the possibilities, and you are anxious because there are so many of them you must assume some assumption to narrow the options to something you can work on, use to plan and then take action. You understand that the main characters go through the same thing: they feel the dread of assuming the wrong assumptions, and when they are confident but lose, their world and their pride falls apart; the panic. This only works because the plot of Death Note is logical to begin with. If it wasn't logical, the show would continue disappointing you because whatever comes next is random, so your processing of what happened so far was for nothing. While watching Code Geass, you will never say "no way, I didn't think of that!" or "nice, I knew that will happen!", instead, you will always think "what even happened, this relates to nothing, what is even the point, this is boring".
+
+  Now for a different topic: world building. Death Note also knew in what to invest depth. Media, for example, is an aspect which Code Geass did not invest in all that much, while Death Note covered extensively. This isn't necessarily bad, obviously Code Geass doesn't have to be Death Note and specifically show how the media would be affected in such world. But, think **generally** about how much Death Note's decision to cover this aspect contributes to its world, and whether Code Geass benefited just as much from its decision to invest into *any other aspect*. It didn't, and also, note that Code Geass is a longer show, meaning it had more time to build a world. Code Geass selected nothing interesting to cover, it had no funny quirks, nothing to act as a tool to drive the story forward in an amusing way. At least not at the level of Death Note. Take anything from Code Geass that doesn't exist as the main plot line and compare it to [Sakura TV](https://deathnote.fandom.com/wiki/Sakura_TV). Nothing is as dynamic and funny as Sakura TV; Sakura TV interacts with the world of Death Note and pivots the story in unique and authentic ways, whilst Code Geass is a massive and empty world. Death note is good, Code Geass is bad, the end.
+
+</details>
+
 # E; Bad
 
 ## NieR Replicant
@@ -285,33 +312,6 @@ Watched the remaster without commentary.
   - Character naming
 
   I am not implying that anything of the listed is "bad", not objectively, not subjectively. I'm an anti-realist, anyway. Put simply, the game isn't for me.
-
-</details>
-
-## Code Geass: Lelouch of the Rebellion
-
-Entry from 4-12-2025
-
-<details>
-  <summary>
-    Spoilers (and for Death Note):
-  </summary>
-
-  This show does not live up to its popularity. I really did not like it.
-
-  I want to quote a paragraph from the description on episode 21, season 2, "The Ragnarok Connection":
-
-  > Lelouch counters that such a world would be gentle only for his parents and is nothing like what Nunnally wanted. Suzaku inwardly muses that Lelouch might be telling the truth, recalling how both Euphemia and Shirley never revealed Lelouch's identity as Zero, even till the end. Charles says that even if Lelouch is right, it doesn't matter since he's too late to prevent Ragnarök, but Lelouch points out that he's Zero, "the man who works miracles", and removes his contact lens. Charles states that his Geass is useless now, as it cannot affect him or anyone else present. Lelouch then corrects him, pointing out there's someone he hasn't accounted for: C's World, which is the will of humanity itself. He then fires one of Charles's quotes back at him: "All men are not created equal." Lelouch claims that because of that, Charles can understand that his Geass will work. Charles calls Lelouch foolish, saying that the power of kings can't defeat the gods. Lelouch corrects him again, saying that he doesn't want to fight the gods, but only make a request to them. He then looks up at the image of Jupiter, declaring that he now knows who he truly is. Using his Geass, Lelouch communicates with the collective unconscious, begging the gods to not stop the progress of time.
-
-  While serving an extreme example, the entire plot of the this show makes no fucking sense and is utterly stupid. While, for the most part, you can understand what is happening and verbally explain each plot point and what caused it, throughout the show **causality** is random and things happen solely to serve the plot. Everything is overcomplicated and as a result everything is filled with holes, which may not be inherently contradictory, but rather they make you think "literally anything else could have happened". At no point during the show I felt anxious about what is going to occur next because it always going to end the way Lelouch planned and at no point something suggests otherwise. For example, how come Schneizel got outsmarted by Lelouch at the end? No clue, period.
-
-  Considering this world behaves randomly, Lelouch's plans are against the laws of logic, hence he is omniscient. Then why does Lelouch die at the end? I have no fucking idea, a [Genghis Gambit](https://tropedia.fandom.com/wiki/Genghis_Gambit) is just a wrong choice for an ending. Literally nothing can defeat Lelouch, he simply decided to end the story this way, and just as he planned a bittersweet ending, he could have planned a happy ending. Based on the premise that causality in this show is random, it is impossible to refute this argument, thus it is true.
-
-  Furthermore, the characters are shallow and are as badly written as the plot. I hate anime fluff and this show is packing with it. Characters go "this is just a single unit, I will go right at it!" while their literal commander goes "no! don't do it!" as they disobey their orders and fucking die, this, 10 times each episode. The art style is unappealing. A good portion of the sentences end like this, then. This might be only in the English dub, but I am certain reading English subtitles would be a worse experience, so. Once you notice it really gets on your nevers, however.
-
-  Naturally, I will compare it to Death Note. Death Note is a wonderful example of logical plot writing. Once you get your plot to be logical (as well as psychological, which is probably the toughest part), you can proceed with storytelling and production. Code Geass failed the first step, so instead of logical it just seems random, which means the viewing experience will be at least boring. Let me use an example that will help clarify why it works this way, though this will work as long as your are not a medical doctor: go watch an episode of House unless you've already done so. You will notice how because you don't understand the technical terms and how medicine works at a professional level, you don't actually understand the challenge which the characters are facing and the plot points seem **random**. Watching House will be a boring experience, unless you like the show's humor, or you are a fan of medical drama which likely means your are either an actual medical doctor or at least someone interested in medicine and know about it more than the average person (hence it won't seem completely random and it won't be boring), *or* you enjoy soap opera, in which case, this file is not relevant to you. I praise Death Note for being a proper psychological thriller: as you watch the show, your mind is racing to figure out what L has planned, and whether Light's move is going to achieve what he wants. Is Near's confidence really justified? Your brain is provided with a challenge and you think about the possibilities, and you are anxious because there are so many of them you must assume some assumption to narrow the options to something you can work on, use to plan and then take action. You understand that the main characters go through the same thing: they feel the dread of assuming the wrong assumptions, and when they are confident but lose, their world and their pride falls apart; the panic. This only works because the plot of Death Note is logical to begin with. If it wasn't logical, the show would continue disappointing you because whatever comes next is random, so your processing of what happened so far was for nothing. While watching Code Geass, you will never say "no way, I didn't think of that!" or "nice, I knew that will happen!", instead, you will always think "what even happened, this relates to nothing, what is even the point, this is boring".
-
-  Now for a different topic: world building. Death Note also knew in what to invest depth. Media, for example, is an aspect which Code Geass did not invest in all that much, while Death Note covered extensively. This isn't necessarily bad, obviously Code Geass doesn't have to be Death Note and specifically show how the media would be affected in such world. But, think **generally** about how much Death Note's decision to cover this aspect contributes to its world, and whether Code Geass benefited just as much from its decision to invest into *any other aspect*. It didn't, and also, note that Code Geass is a longer show, meaning it had more time to build a world. Code Geass selected nothing interesting to cover, it had no funny quirks, nothing to act as a tool to drive the story forward in an amusing way. At least not at the level of Death Note. Take anything from Code Geass that doesn't exist as the main plot line and compare it to [Sakura TV](https://deathnote.fandom.com/wiki/Sakura_TV). Nothing is as dynamic and funny as Sakura TV; Sakura TV interacts with the world of Death Note and pivots the story in unique and authentic ways, whilst Code Geass is a massive and empty world. Death note is good, Code Geass is bad, the end.
 
 </details>
 
