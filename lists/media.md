@@ -20,6 +20,7 @@
   - [Attack on Titan](#attack-on-titan)
   - [Solo Leveling (seasons 1-2)](#solo-leveling-seasons-1-2)
 - [C; Decent](#c-decent)
+  - [Psycho-Pass (season 1 only)](#psycho-pass-season-1-only)
   - [Firewatch](#firewatch)
 - [D; Mediocre](#d-mediocre)
   - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
@@ -211,7 +212,36 @@ Entry from 2-12-2025
 
 # C; Decent
 
-From this tier and below I wouldn't consider anything here worth the time.
+From this tier and below I wouldn't consider anything here worth the time (unless you are researching something, like plot writing).
+
+## Psycho-Pass (season 1 only)
+
+<details>
+  <summary>
+    Spoilers (slight spoilers to Frieren season 1 only, Code Geass and Cyberpunk 2077, and significant spoilers to Death Note):
+  </summary>
+
+  This user review I found from IMDb already closely encapsulates my opinion on the show:
+
+  > Title: It's Alright
+  >
+  > The story line is good but it all ends up being anti climatic. It doesn't make you care or feel connected to the characters. Thinking about the plot it makes perfect sense to have the characters do what they do but watching it.. It all seems so boring. Which is weird considering the good plot and story line it has. The character Akane Tsunemori is the only one you can feel a connection with everyone else just feels like an background noise or a means to an end. Sybil is alright as a character but it too seems anti climatic.
+  >
+  > Overall it is a visually beautiful with a good story line but that's as far as it goes.
+  >
+  > 6/10
+
+  ([Permalink](https://www.imdb.com/title/tt2379308/review/rw8553971/))
+
+  The tier "C; Decent" is an appropriate rating for underwhelming media. Psycho-Pass really is alright but it doesn't hit. Nothing incredibly significant happened toward the end of the first season. Didn't watch the second and third seasons because the user reviews and ratings mostly declined as those progressed (apparently the plot makes less sense, which I had enough of while watching Code Geass).
+
+  I actually watched Frieren season 1 and considered rating it C as well because it was just underwhelming, but I didn't because it feels like it can be very good in the next seasons, and it also did not "conclude" as much as season 1 of Psycho-Pass did. Because Psycho-Pass season 1's ending felt conclusive enough and the ratings of the later seasons were worse, it made sense to me to stop there and just call it decent.
+
+  Now comes the significant spoilers to the excellent Death Note. Recall the death of Tomomi Masaoka (the father enforcer) toward the end of the season. Tomomi is a good, well-written character, no doubt. But, his death felt a little pointless. Apparently (other than making him remove his glasses on season 1 to express himself accepting his father, whom he shares eyes with), this changes Ginoza's behavior in seasons 2 and 3, kind of like accepting his father's heritage, but considering that's not going to affect Akane much as well (and if it will, why would it?), Tomomi's death really results in nothing significant. It's very easy to compare his death to Soichiro Yagami's death in Death Note (both character being fatherly figure). That deathbed scene is very powerful. It is tragically ironic when Soichiro sees number's above Light's head (implying he isn't the owner of a death note), and dies truly believing that his son was innocent the entire time. Soichiro was an important character that has gone through a lot, so his death means a lot to the viewer and makes the story that much more tragic. As his father exhales his last breath, Light cares more about his plans (attempting to make Soichiro write Mello's name), expressing his arrogance on a new level. Plot-wise, Soichiro's death further frees Light of restrictions, allowing him to act even more arrogantly after the fact. Soichiro's death is a plot point that hits. But remember when Tomomi died? Yeah, I don't know what was the point of that.
+
+  Basically all I am saying is that death is obviously a very powerful device in writing, which I noticed being used in Psycho-Pass sometimes decently, other times mediocrely, giving me another opportunity to praise Death Note in an entry unrelated to Death Note. I expected it to be used better here, especially considering the show has a Cyberpunk theme, which at least in my mind, has a lot to do with mortality (probably being biased by Cyberpunk 2077, which has so much death in it).
+
+</details>
 
 ## Firewatch
 
