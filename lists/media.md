@@ -21,6 +21,7 @@
   - [Attack on Titan](#attack-on-titan)
   - [Solo Leveling (seasons 1-2)](#solo-leveling-seasons-1-2)
 - [C; Decent](#c-decent)
+  - [Taxi Driver 1976](#taxi-driver-1976)
   - [Psycho-Pass (season 1 only)](#psycho-pass-season-1-only)
   - [Firewatch](#firewatch)
 - [D; Mediocre](#d-mediocre)
@@ -210,6 +211,19 @@ Entry from 2-12-2025
 # C; Decent
 
 From this tier and below I wouldn't consider anything here worth the time (unless you are researching something, like plot writing).
+
+## Taxi Driver 1976
+
+Entry from 18-2-2025
+
+Watched.
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+  It's fine. It's just slightly underwhelming, there is not much to Taxi Driver. I highly recommend watching this video: https://www.youtube.com/watch?v=-pAcJ0lFu94, and each time the person in the video finishes a sentence, go "did the thing that this person just said really make sense, is significant, and relevant?", and the answer for most sentences, is no. That's just because there is really not much to say about this movie. It's decent because it reminds me of [Crime and Punishment](#crime-and-punishment) and the story makes sense, but that's about it. The internal dialogues of Travis are shallow, he says things that don't really mean things. The fact that he says these things may or may not tell us things about the character of Travis. The actions of Travis may or may not tell us further things. And that is the recipe for decent, as in, underwhelming but definitely not bad, media. There are plenty of Taxi Driver reviews like this one on IMDb, so there's no more to add, signing off.
+</details>
 
 ## Psycho-Pass (season 1 only)
 
