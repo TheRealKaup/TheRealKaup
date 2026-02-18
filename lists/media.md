@@ -10,7 +10,7 @@
 - [S; Exceptional](#s-exceptional)
   - [Omori](#omori)
 - [A; Excellent](#a-excellent)
-  - [Steins;Gate (anime)](#steins-gate-anime)
+  - [Steins;Gate (anime)](#steinsgate-anime)
   - [Until Then](#until-then)
   - [Death Note](#death-note)
   - [Crime and Punishment](#crime-and-punishment)
