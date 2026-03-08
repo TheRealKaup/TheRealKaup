@@ -33,6 +33,7 @@
 - [F; Horrible](#f-horrible)
   - [Bendy and the Ink Machine](#bendy-and-the-ink-machine)
 - [General Opinions](#general-opinions)
+  - [Story Writing Rulebook](#story-writing-rulebook)
   - [Side Content](#side-content)
   - [RPGs](#rpgs)
   - [Branching](#branching)
@@ -402,6 +403,14 @@ Watched without commentary.
 
 
 # General Opinions
+
+## Story Writing Rulebook
+
+- **Simple endings**, that are conclusive, not confusing, not underwhelming, make sense, and can be summarized in 1 or 2 sentences. Doesn't matter if happy, tragic of bittersweet.
+- Few characters that are introduced early.
+- No fillers.
+- No overreaction, not too much expressed sympathy. Don't make the characters react for the viewer, if the story is good then let the viewer react themselves. Characters expressing and reacting can obviously be a good story device, use it too much and the viewer will become numb and desensitized toward your characters.
+- No flashbacks of things the viewer already saw. Generally, do not repeat a thing you already told the viewer, unless there is a very good reason to repeat it, and if you do repeat it, make it quick: for example, if a character remembers something they experienced during the story so far, don't bore the viewer with a flaskback because they already saw this content, and anyway, when a character remembers something, the entire scene of the thing happening doesn't just play in their head like you would show the viewer. If the thing that the character is remembering is important, the viewer likely remembers, so they don't need a replay. Rather, if a detail from earlier is important right now and you are not sure the viewer would remember (e.g., because it wasn't impoertant then), make the viewer realize what it is by means that avoid repeating exactly what they already saw; always show the viewer something new. An easy example, that obviously might not be the best for your case, is by letting them see the _characters' reaction to remembering this information_, which would be something the viewer did not see.
 
 ## Side Content
 
