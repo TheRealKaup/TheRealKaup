@@ -21,6 +21,7 @@
   - [Attack on Titan](#attack-on-titan)
   - [Solo Leveling (seasons 1-2)](#solo-leveling-seasons-1-2)
 - [C; Decent](#c-decent)
+  - [Monster](#monster)
   - [Taxi Driver 1976](#taxi-driver-1976)
   - [Psycho-Pass (season 1 only)](#psycho-pass-season-1-only)
   - [Firewatch](#firewatch)
@@ -211,6 +212,31 @@ Entry from 2-12-2025
 # C; Decent
 
 From this tier and below I wouldn't consider anything here worth the time (unless you are researching something, like plot writing).
+
+## Monster
+
+Entry from 8-3-2025
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+
+  [This review on IMDb](https://www.imdb.com/title/tt0434706/review/rw3197511/) is fairly accurate in my eyes, though exaggerates a bit. The show isn't 4 out of 10, but it definitely isn't good.
+
+  There are a couple of things in the show that are truely miserable, genuinely painful to watch:
+
+  - 3 new boring characters are introduced each episods for fillers and MacGuffins
+  - Apparently 5 hours of flashbacks of things the viewer already saw
+  - The ending doesn't really add up, and is underwhelming
+  - Overreacting, bad dialogue flow that repeats too many things and misses writing opportunities, too much sympathy
+  - Things that are supposed to be scary or distressful but are neither
+  - Not enough of the main characters
+
+  This sounds like a lot of bad stuff, but there is also good. For example, I'd wish some of the main characters would take 50% of screen time, not 5%. Inspector Lunge is such a peak character. It's my favorite kind of character design, I'd definitely watch a Lunge spinoff. The other main characters are fine, they are not particularly good though as they have some writing problems (e.g., Yohan's plan not really making a whole lot of sense, Dr. Tenma, Nina or really anyone else overreacting constantly and making stupid decisions).
+
+  It's not worth watching.
+</details>
 
 ## Taxi Driver 1976
 
