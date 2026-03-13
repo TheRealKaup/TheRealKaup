@@ -10,6 +10,7 @@
 - [S; Exceptional](#s-exceptional)
   - [Omori](#omori)
 - [A; Excellent](#a-excellent)
+  - [Neon Genesis Evangelion](#neon-genesis-evangelion)
   - [Steins;Gate (anime)](#steinsgate-anime)
   - [Until Then](#until-then)
   - [Death Note](#death-note)
@@ -57,6 +58,24 @@ Watched CallMeCarson's playthrough.
 I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't, and I'm happy I didn't, as the actual walking-simulator-like gameplay experience isn't my cup of tee.
 
 # A; Excellent
+
+## Neon Genesis Evangelion
+
+Entry from 13-3-2025
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+  
+  After watching [Code Geass](#code-geass) I thought part of the problem I had with the show was the mecha genre. But in Evengalion it's kinda awesome. It's not a problem at all which I guess just shows how shitty Code Geass is. Though this isn't a Code Geass review update.
+
+  Obviously most people dislike Evangelion because it's confusing. I wouldn't say it's really confusing, it's mostly abstract. It obscures what I think is rather a very simple solution to the story, it's just a matter of separating the author's abstract way of expressing it, and the factual plot being expressed. I'm not actually bothered by it being abstract, as I explaiend in my [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1) review. So basically, Shinji moves to this other reality (I don't really care what it is exactly) where we get his higly-detailed introspection, which ends with him solving his self-hatred and bringing up the possibility of loving himself. It hits. The solution to the story is touching and definitely poignant because Shinji stops hating himself only in this reality where he only communicates with some sort of copies or images of the other characters, rather than the actual characters themselves in the real world. It's a well-put ending, the show's theme starts playing in a simple violin and piano track, Shinji realizes and everyone congratulates him. It just works well.
+
+  Evangelion decides that its focus, its final message, would be Shinji's perspective and emotions. That's it. Out of all the things in the story, it makes up some excuse in the plot to end with this, just this. That is something I really appreciate in media, the willingness to drop everything else and conclude with some single and specific aspect of the story, usually something that is important yet set aside. For example, this is a plot device I wish would be present in [Until Then](#until-then), which included all sorts of things in the ending, though there was one part I really liked, and I think it would overall improve the story if this part would comprise the entire ending. However this plot device is subjective, because some people would prefer some specific part of the story to be in the ending, and some other people would prefer a different part, and although, as I see it, an ending benefits very well from focusing on just a single and simple thing, you are risking losing the love of a significant portion of viewers, who wished for the ending to be about something else.
+
+  Neon Genesis Evangelion is not [Exceptional](#exceptional) in that it doesn't really hit as hard as an _exceptional_ story would. Furthermore, even though the ending is fundamentally simple, it is not obvious from the start; initially I intended to rank Evangelion [Great](#great), but then I thought more about the ending and I started getting it. Regarding the visual and sonic style of the show, I watched it with the original English dubbing, which was great, and visually the show looks good and the angel design is sick, probably serving as the show's hook for me. But it has some stupid anime fluff that made me say "dude." out loud while watching it, and it's, like, you know. It loses some points for that. More importantly, the ending lacked a catalyst, that is, the ending just sort of came out of nowhere, or at least the reasons are boring, "world-driven/non-character-driven" plot points about destroying the last angel and that other-reality project the secret organizations have been planning all along, or whatever. This part of the plot about NERV and SEELE loses some extra plots, that shadowy circle of speakers was honestly lame. In my book it was solely a means to an end, which is unforunate beacuse I think of it as lazy writing.
+</details>
 
 ## Steins;Gate (anime)
 
