@@ -27,6 +27,7 @@
   - [Psycho-Pass (season 1 only)](#psycho-pass-season-1-only)
   - [Firewatch](#firewatch)
 - [D; Mediocre](#d-mediocre)
+  - [Gen V (seasons 1-2)](#gen-v-seasons-1-2)
   - [Uncharted 1, 2, 3 and 4](#uncharted-1-2-3-and-4)
   - [Code Geass: Lelouch of the Rebellion](#code-geass-lelouch-of-the-rebellion)
 - [E; Bad](#e-bad)
@@ -320,6 +321,17 @@ Played myself. I recommend watching instead (if you are interested in the game, 
 </details>
 
 # D; Mediocre
+
+## Gen V (seasons 1-2)
+
+Entry from 18-4-2026
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+  Not much to say about the show except it's medicore in terms of story, acting, setting, characters, and even visuals as well as action. I watched it because I wanted to watch The Boys, so it's quite annoying.
+</details>
 
 ## Uncharted 1, 2, 3 and 4
 
