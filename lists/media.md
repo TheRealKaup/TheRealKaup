@@ -22,6 +22,7 @@
   - [Attack on Titan](#attack-on-titan)
   - [Solo Leveling (seasons 1-2)](#solo-leveling-seasons-1-2)
 - [C; Decent](#c-decent)
+  - [Fullmetal Alchemist: Brotherhood](#fullmetal-alchemist-brotherhood)
   - [Monster](#monster)
   - [Taxi Driver 1976](#taxi-driver-1976)
   - [Psycho-Pass (season 1 only)](#psycho-pass-season-1-only)
@@ -233,6 +234,21 @@ Entry from 2-12-2025
 # C; Decent
 
 From this tier and below I wouldn't consider anything here worth the time (unless you are researching something, like plot writing).
+
+## Fullmetal Alchemist: Brotherhood
+
+Entry froma 21-4-2026
+
+Watched it a while ago but forgot to list it here.
+
+<details>
+  <summary>
+    Spoilers:
+  </summary>
+
+  The show was apparently underwhelming enough that I forgot to review it! Not much to say about it other than the ending was surprisingly underwhelming, and the show did a classic error where most of the screentime of a relatively-important character, Hohenheim, was put all the way at the end.
+
+</details>
 
 ## Monster
 
