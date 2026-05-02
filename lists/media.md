@@ -10,6 +10,7 @@
 - [S; Exceptional](#s-exceptional)
   - [Omori](#omori)
 - [A; Excellent](#a-excellent)
+  - [Vinland Saga (season 1 only)](#vinland-saga-season-1-only)
   - [Neon Genesis Evangelion](#neon-genesis-evangelion)
   - [Steins;Gate (anime)](#steinsgate-anime)
   - [Until Then](#until-then)
@@ -60,6 +61,44 @@ Watched CallMeCarson's playthrough.
 I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't, and I'm happy I didn't, as the actual walking-simulator-like gameplay experience isn't my cup of tee.
 
 # A; Excellent
+
+## Vinland Saga (season 1 only)
+
+Entry from 2-5-2026
+
+I recommend watching the first season, and ignoring the second.
+
+<details>
+  <summary>
+    Spoilers (with slight spoilers to Arcane season 1, Westworld season 1, and major to Omori and Vinland Saga season 2 up to episode 9):
+  </summary>
+
+  At last, this one is going to be a real review. Unlike some of the recent reviews, which were at most three sentences, it will have more than three sentences.
+
+  It would make sense to discuss season 2 after I reason why season 1 is an excellent and complete piece of media.
+
+  General plot structure and the pacing between the parts. It's very good. Season  1 was not afraid of the exposition taking multiple episodes, which I consider to end when it becomes clear Thorfinn will follow Askeladd. Why does this point represent the end of the exposition? Because right at that point we became familiar with all important characters, and because after the exposition, starts the complication. And what is the complication in season 1? Thorfinn following Askeladd, committing atrocities for him to get a fight. This complication appears when Thorfinn, well, starts following Askeladd. If that's when the complication starts, then that's when the exposition ends. Taking time with the exposition is beneficial in this show, as it allows to introduce complicated characters and/or express their background story if it is crucial to the main story. The death of a main character in the background story (in this instance, Thors) is a sign of the background story being important to the main story, and would be an ineffective plot device in the main story if not actually expressed (and preferably, linearly to make the viewer attached properly). Imagine, for example, Vinland Saga starting post the death of Thors, and expressing his death in flashbacks during the complication. That would be bad, because it tries to make the viewer become attached to (sympathize with) Thorfinn after being introduced as just some fighter skilled with a knife who kills people for no reason other than to get a fight with Askeladd, which is harder than simply going linear and introducing Thorfinn as just a kid, who sees for the first time his father fight as a true warrior and die for it, and desperately try to get revenge. This might seem obvious when I write it, but consume enough mediocre media and you will be surprised by just how many writers fall for this simple mistake. Here are 2 examples from other shows, one positive and the other negative: the positive, Arcane season 1 taking multiple episodes to introduce the main characters whose background is important (because of the various casualties, including Vander's death); the negative, Westworld season 1, where we learn of Maeve's background late in the show (or rather I don't remember the show right, either way, Westworld was shit from season 1). It's incredibly simple: just write linear stories, even if it means that your first episode isn't an immediate hook that introduces all of the interesting characters right away, and thus you can't rush your exposition (this does not contradict [Omori](#omori): you can go nonlinear if you know what you are doing, and in Omori, the discovery at the end of the game _is_ the resolution and the impact of the story, contrary to a plot device used to get the player attached to the characters through the complication).
+
+  Furthermore, after the exposition, most of the screen time is dedicated to complication, and the resolution is roughly an episode-long. This is still good pacing. The resolution is short because it is simple. Askeladd dies before Thorfinn gets to fight and kill him. It's a simple plot point that is expressed well in a single episode. There is also no need for anything after episode 24. We get a tragic ending and there's that. Let the concern for Thorfinn's unknown wellbeing sting, as it should in a tragic ending. It's powerful and well done. The story is complete, and while I care about what happens to Thorfinn afterward, I do not need another season, and if there is a season 2, it's about a different story, as this story ended.
+
+  Another thing great about season 1 is the distribution of screen time across characters. The more important the character, the more screen time they get. Thorfinn and Askeladd get the most, then Canute and Thorkell, and then the rest. That's how it should be, and it's also impressive that the screen time doesn't feel wasted, meaning the show both splits screen time right and utilizes it well.
+
+  But before I delve into season 2, Vinland Saga also excels in picking details. When creating a piece of media, there is the plot, which defines the major plot points and devices. If 2 stories differ in plot, then they are necessarily different stories. Then there is the story writing, or the "execution" of the plot, or "plot implementation". As long as 2 stories have the same plot, they are not necessarily different (though it's possible for 2 plot executions to the make the same plot seem different). Why does this matter? Because implementing a plot is choosing details, _implementation details_. And I couldn't not notice how good at it Vinland Saga season 1 was. Such well-selected details include, but are not limited to: Canute's reaction to seeing a bird that flies low, Yiva's reaction to Thors' death, Askeladd's roman-looking breastplate, the girl who survived at The Light of Dawn, Gratianus' introduction with that brass sound track, Thorkell's introduction which scares Floki at the London bridge, and my personal favorite, the guy that can hear things that others can't (mf is just called "The Ear", how cool is that?). There are so many more. The reader of this review must understand that these are high-quality details that were clearly not chosen from some sort of _default_ (usually cliche) collection of details and devices. The writers and artists actually had to come up with these, which is an incredibly time-consuming task that requires you to be inspired and be able to think of such things out of the blue. The average piece of media, such as season 2 of Vinland Saga, does not involve this process in their production; it is simply _skipped_, which is _exactly_ what makes a piece of media feel _bland_.
+
+  Season 2 is bad. For the record, I watched until episode 9 of season 2, because that episode is highly rated on IMDb, so I thought it would roughly represent the higher-quality content of the season, and if it wasn't good enough for me, then probably neither the rest of the show. I felt something was wrong from the second the season started, because it started with Einar. Einar is not a well-designed character. He is a cliche and default man-child. Someone bullies him and he gets angry. He sees a girl and he blushes. He is a basic as that yet he is a main character who gets a large chunk of screen time. He is annoying to watch. That's pretty much all there is to say about Einar, because he is not an intelligent character, nor does he have an intriguing and special background story (like that of Thorfinn or Askeladd), and no interesting aspirations in life other than the basic concept of freedom (which is not sufficient to base an entire main character on).
+
+  Season 2 is ugly. At the level of the art style, ugly.
+
+  ![vinland_saga_thorfinn_season_2.png](./assets/vinland_saga_season_2_thorfinn.png)
+  ![vinland_saga_thorfinn_season_2.png](./assets/vinland_saga_season_2_arnheid.png)
+  ![vinland_saga_thorfinn_season_2.png](./assets/vinland_saga_season_2_fox.png)
+  ![vinland_saga_thorfinn_season_2.png](./assets/vinland_saga_season_2_ormar.png)
+
+  The season looks horrible! It looks like it was made for children. Characters constantly make face expressions that do not link with the tone they speak in. Each time there are human figures in the background, examine their face expressions, and it always looks stupid or disconnected. Snake is introduced by getting Fox to break character, though considering we know nothing about Snake at that point (as he is literally being introduced right there), it is the responsibility of the art style and animation to make him look appropriately scary (or alternatively, the plot is executed in the wrong order), but the show is subpar in all of that, hence it fails to introduce Snake. Instead, we get an average-NPC-looking dude inappropriately terrorizing characters that shouldn't be scared so easily. We went from a gruesome season involving 11th century politics and plenty of genocide to a default, cheap season about pacifism that has a dumb character as Einar serving as the catalyst.
+
+  Was disappointed so I stopped watching season 2, and because I respect season 1 so much, it deserves its own, untainted, rating.
+
+</details>
 
 ## Neon Genesis Evangelion
 
