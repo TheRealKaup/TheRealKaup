@@ -17,7 +17,6 @@
   - [Death Note](#death-note)
   - [Crime and Punishment](#crime-and-punishment)
 - [B; Great](#b-great)
-  - [The Boys](#the-boys)
   - [The Last of Us Part II](#the-last-of-us-part-ii)
   - [Doki Doki Literature Club!](#doki-doki-literature-club)
   - [ENA: Dream BBQ (chapter 1)](#ena-dream-bbq-chapter-1)
@@ -178,24 +177,6 @@ Entry from 2-12-2025
 I don't remember what exact edition I read. It was a while ago. I just really liked the story. I just thought it would be hilarious to rank it here.
 
 # B; Great
-
-## The Boys
-
-Entry from 22-5-2026
-
-<details>
-  <summary>
-    Spoilers (with spoilers to Death Note):
-  </summary>
-
-  Absolutely nobody on IMDb has a clue on what they are saying. The rating of the finale genuinely surprises me. You know people are talking nonsense when one review says the last episode should have been 2 episodes, and the review right next to it says that the entire season should have been a single episode. Well which one is it. Like, you know the reviewers consist of morons when they start comparing things to the fifth season of Stranger Things. People's taste, man. Bitch, Stranger Things sucked from the start, what fifth season are you talking about. One of the reviewers admits that it feels as if someone at Amazon decided to make the show in a way where people can understand it without looking at their screens. Well I think that person at Amazon made the right call, considering how fucking dumb some of these reviewers are. I don't know if it's inherently a fallacy to choose a specific plot point in a media, and then complain about the media because said plot point "didn't matter at the end" (hell knows what that means), even though that's not required? Like, an ending can focus on whatever it wants, it happens everywhere and that can usually be something good and it focuses on one things and does it well. It sounds abstract and stupid, but take for example V1. This is a common trope in reviews on the finale of The Boys: "V1 didn't matter at the end, it only made Homelander look weaker or whatever". Why... do you care about the V1? It's some blue shit in a syringe. It's a fucking object. V1 is a plot point already finished, original utilized to make you and the characters feel desperate; it wasn't necessarily made to be part of the ending, nothing forces it to be at the cost of quality. Hearing "it doesn't make sense that Homelander was beaten at the end despite taking the V1" proves the point that you are criticizing the show for the sake of criticizing it, because otherwise you would complete yourself with "at no point in time was it mentioned that the V1 will strengthen Homelander, instead, it only made him more confident to the extent he thought of himself as a god, where in actuality, he was simply immune to one virus". I don't even care. This doesn't matter. Valid criticism stems from bad acting, uninteresting or dumb characters, and useless plot points (and you can maybe make the argument that the V1 is useless or rather could have been replaced with something more interesting and direct, but I don't think that's true if you analyze the show a bit further). Just... a lot of shit criticism!
-
-  Let's get to what is actually wrong about the show. It's... the _classic_. Screen time given to characters you don't give a shit about. **Actually** unused plot points (if I knew Gen V would have nothing to do with anything, I wouldn't watch that garbage). Bad actors playing bad characters (all of, but not limited to, the characters from Gen V). This is nothing special. This isn't a matter of the fight at the end being underwhelming, or not having a scorched earth scenario fueled by V1 and viruses. It's just a matter of the show making casual show mistakes.
-
-  Look, the show is enjoyable. I liked the ending (even though I've seen it being executed a lot better before, see [Death Note](#death-note)), it built many great characters, with great dynamics and actors who play them (and among said characters there are even excellent ones, including, but not limited to, Butcher and Homelander), and that's why it's getting a B. But it's not getting more than that, because other than that, it's an ordinary show with many mistakes that lessen its quality.
-
-  What else do I have to say. It's slightly problematic reviewing this media because I started watching it maybe 5 or 6 years ago. I don't remember well the rest of the show, and by the things I do recall, if I watched it completely for the first time now, it would be [decent](#c-decent), as my standard for media has increased with the years so The Boys pretty much squeezed into B. I remember thinking that the ending of season 4 was really bad, yet it's one of the highest-rated episodes. The scene where everyone gets abducted and Starlight flies away just seemed goofy and out of place, I didn't get where the show was going with the entire sequence of events that episode anyway. The writing in the show is weird! It sometimes doesn't know what it wants. But in season 5 episode 8 it suddenly felt like the show does know what it wants, which is a [Brought Down to Normal](https://tvtropes.org/pmwiki/pmwiki.php/Main/BroughtDownToNormal) and a [How the Mighty Have Fallen](https://tvtropes.org/pmwiki/pmwiki.php/Main/HowTheMightyHaveFallen) (uhm, uhm, [Death Note](#death-note)), and I suppose it executed it greatly (but not exceptionally!)
-</details>
 
 ## The Last of Us Part II
 
