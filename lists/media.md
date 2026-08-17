@@ -10,6 +10,8 @@
 - [S; Exceptional](#s-exceptional)
   - [Omori](#omori)
 - [A; Excellent](#a-excellent)
+  - [Trigun](#trigun)
+  - [Cowboy Bebop](#cowboy-bebop)
   - [Vinland Saga (season 1 only)](#vinland-saga-season-1-only)
   - [Neon Genesis Evangelion](#neon-genesis-evangelion)
   - [Steins;Gate (anime)](#steinsgate-anime)
@@ -61,6 +63,14 @@ Watched CallMeCarson's playthrough.
 I recommend CallMeCarson's playthrough if you like the niche content creator, the narration is really nice and he covers a significant portion of the optional content, though hide the chat from the VODs as it contains spoilers sometimes. Also, I've found I had to pay more attention than I've initially expected, because the scenes change quite quickly, dialogue is frequent and the more important bits blend with the others. I thought of switching from watching to playing the game a couple of times because my attention was already mostly drawn into it, but I didn't, and I'm happy I didn't, as the actual walking-simulator-like gameplay experience isn't my cup of tee.
 
 # A; Excellent
+
+## Trigun
+
+Entry from 17-8-2026
+
+## Cowboy Bebop
+
+Entry from 17-8-2026
 
 ## Vinland Saga (season 1 only)
 
